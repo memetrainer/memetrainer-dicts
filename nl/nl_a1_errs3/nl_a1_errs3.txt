@@ -1,0 +1,446 @@
+aanbevelen	to recommend
+aannemen	to hire (staff)
+aanzetten	to turn on
+achterlaten	to leave smth/smb in the other place
+af	off
+afsluiten	to lock
+afwassen	to do the dishes
+allemaal	everyone (2)
+allerlei	all kinds of
+alsof	as if
+ander	other
+bedenken	to think up
+bedoelen	to mean
+bedragen	to amount to
+beetje	little / few
+behandelen	to treat
+beklimmen	to climb
+bepaald	certain
+bepalen	to determine
+beroemd	famous
+bespreken	discuss
+betrekken	to involve
+bewegen	to move
+bewijzen	to prove
+bewust	conscious, aware
+bijles geven	to tutor
+bijten	to bite
+binnenkort	soon (2)
+blij	happy
+blijkbaar	apparently
+borrelen	to have a drink
+bovendien	also (2)
+bovenstaand	above (2)
+bowlen	to bowl
+breed	wide
+breken	to break
+bruto	gross
+Chinees	Chinese
+daarbij	with it (2), besides
+dagelijks	daily
+dan	then
+dank je wel	thank you (informal)
+dat klopt	that's right
+de aanleiding	the reason, occasion
+de aanval	the attack
+de aardrijkskunde	the geography
+de accessoires	the accessories
+de autotechnologie	the automotive engineering
+de band	the bond
+de band hebben met	the to have a connection with
+de barbecue	the barbecue
+de begroeting	the greeting
+de behandeling	the treatment
+de belasting	the tax
+de bes	the berry
+de bij	the bee
+de bijdrage	the contribution
+de boer	the farmer
+de bruiloft	the wedding
+de buurt	the neighbourhood
+de dame	the lady
+de das	the scarf
+de definitie	the definition
+de doos	the box
+de eetkamer	the dining room
+de eigenaar	the owner
+de eigenschap	the characteristic
+de framboos	the raspberry
+de gang	the corridor
+de gast	the guest
+de gedachte	the thought
+de gelegenheid	the opportunity
+de geschiedenis	the history
+de geur	the smell
+de gewoonte	the custom
+de giraffe	the giraffe
+de goudvis	the goldfish
+de halte	the stopping place
+de handdoek	the towel
+de haven	the port
+de helft	the half
+de heuvel	the hill
+de hobby	the hobby
+de hoeveelheid	the quantity (with units)
+de huishoudelijke taken	the household chores
+de identiteitskaart	the identity card
+de indruk	the impression
+de inhoud	the content
+de inwoner	the resident
+de jas	the coat
+de kaars	the candle
+de kerel	the guy, dude
+de kerstman	Santa Claus
+de keuze	the choice
+de kipfilet	the chicken fillet
+de klomp	the wooden shoe
+de koelkast	the refrigerator
+de kont	the ass
+de kous	the sock (long)
+de kruk	the stool
+de kwestie	the issue, question (2)
+de laars	the boot
+de leeftijd	the age
+de lengte	the height
+de loop	the course (direction)
+de maaltijd	the meal
+de maan	the moon
+de maat	the size (2)
+de mama	the mummy
+de melk	the milk
+de middag	the afternoon
+de middernacht	the midnight
+de mobiele telefoon	the cell phone
+de mogelijkheid	the possibility
+de mond	the mouth
+de mug	the mosquito
+de mus	the sparrow
+de muts	the winter hat
+de muziek	the music
+de muziekvideo	the music video
+de neerslag	the precipitation
+de oliebol	Dutch fritter with raisins
+de ooievaar	the stork
+de oorbel	the earring
+de opdracht	the task
+de opmerking	the remark
+de pannenkoek	the pancake
+de passie	the passion
+de pet	the cap
+de pijn	the ache
+de pinpas	the debit card
+de plaat	the a) record b) plate
+de plattegrond	the floor plan
+de politie	the police
+de postcode	the ZIP code
+de provincie	the province
+de psychologie	the psychology
+de reden	the reason
+de reisorganisator	the travel organizer
+de rij	the row
+de rivier	the river
+de schuld	the a) debt b) blame
+de slag	the blow
+de slager	the butcher
+de slak	the snail
+de snor	the moustache
+de soep	the soup
+de soort	the kind of
+de spaarzegel	the savings stamp
+de spin	the spider
+de spoedeisende hulp	the emergency care
+de sportschoen	the sneaker
+de strik	the bow
+de studie	the study
+de taak	the task (2)
+de tegenstelling	the opposite
+de tekst	the text
+de thuisbar	the home bar
+de tijger	the tiger
+de uitspraak	the pronunciation
+de vaardigheid	the skill
+de vaatwasmachine	the dishwasher
+de verdieping	the floor (2)
+de verkering	the dating
+de versnelling	the gear
+de vertegenwoordiger	the representative
+de vesting	the fortress
+de vlinder	the butterfly
+de voetbalwedstrijd	the soccer match
+de vos	the fox
+de vriendin	the friend / the girlfriend
+de vrije dag	the day off
+de vve bijdrage	communal costs
+de wal	the shore
+de walvis	the whale
+de was doen	to do the laundry
+de weinig	the few, little
+de werkvergunning	the working permit
+de werkweek	the werking week
+de wolf	the wolf
+de worst	the sausage
+de zeehond	the seal
+de zoetigheid	the candy
+de zolder	the attic
+de zwaan	the swan
+degelijk	sound solid, reliable (adj.)
+die	that / those
+dienen	to serve as
+discussiëren	to discuss
+doordeweeks	during the week
+dreigen	to threaten
+durven	to dare
+een verjaardag vieren	to celebrate a birthday
+eenmalig	one-time-only
+eens	once, (not) even
+eerlijk	honest, fair
+eerste	first
+eet smakelijk	enjoy your meal
+eigenlijk	actually
+eindigen	to end
+eng	scary
+enkel	only, single
+eruitzien	to look (2)
+eten	food
+even	just (for a short amount of time)
+fijn	fine, nice, good
+flink	significant
+frituren	to fry
+gaar	cooked, done
+geachte	dear
+geleden	ago
+genieten	to enjoy
+geraken	to get somewhere in time
+gevaarlijk	dangerous
+geweldig	fantastic
+glad	slippery
+goedendag	good day
+graag	gladly, with pleasure
+grijpen	to grab
+grootte	size
+gwl	utility bills (gas, water, electricity)
+hagelen	to hail
+halen	to pick up
+hallo	здравствуйте
+heel	very (1)
+heerlijk	delicious (2)
+helaas	unfortunately
+herschrijven	to rewrite
+het alternatief	the alternative
+het bed	the bed
+het beeld	the statue
+het beest	the animal, the beast
+het begrip	the understanding
+het beroep	the profession
+het bestek	the cutlery
+het bord	the plate
+het bosje	the bunch
+het cijfer	the number, digit
+het dak	the roof
+het etentje	the meal, dinner
+het feest	the party
+het feit	the fact
+het formulier	the form (to fill)
+het gebied	the area
+het gezicht	the face
+het glas	the glass
+het goud	the gold
+het haar	the hair
+het hert	the deer
+het horloge	the watch
+het hout	the wood
+het humeur	the mood
+het insect	the insect
+het interview	the interview
+het kanaal	the channel (long artificial river)
+het kleinkind	the grandchild
+het konijn	the rabbit
+het kopje	the cup
+het kuipje	the tub
+het kwartier	the quarter
+het lid	the member
+het lied	the song
+het management	the management
+het medicijn	the medication
+het middel	the means
+het midden	the middle
+het onderwerp	the topic
+het paar	the couple
+het pak	the suit
+het paleis	the palace
+het plan	the plan
+het postnummer	the postcode
+het potlood	the pencil
+het pretpark	the theme park
+het salaris	the salary
+het spel	the game
+het strand	the beach
+het terrein	the area, field, ground
+het tiental	the ten
+het tijdschrift	the magazine
+het uiterlijk	the appearance
+het uur	the hour
+het venster	the window (whole)
+het verhaal	the story
+het visum	the visa
+het voordeel	the advantage
+het voorstel	the proposal
+het vriendje	the boyfriend
+het werkfeest	the office party
+het woord	the word
+het zout	the salt
+het zuivelproduct	the dairy product
+heten	to be named, called
+hij is jarig	it’s his birthday
+hoewel	although (2)
+houden	to keep
+ieder	each (formal)
+Ik ken het Nederlandse alfabet uit mijn hoofd	I know the Dutch alphabet by heart
+Ik spreek alleen in het Engels	Я говорю только по английски
+in de bediening werken	working as a waiter
+indien	if (formal)
+inmiddels	meanwhile
+jong	young
+jouw	your (singular, informal)
+jullie	вы
+kwart voor zeven	quarter to seven
+kwijt	lost
+lang	tall
+langs	along, alongside (pred., int the past)
+lastig	difficult (2)
+lekker smaken	to taste good
+Lekker weer, hè?	Nice weather, isn’t it?
+leren	to learn
+leuk	nice
+leuk je te ontmoeten lief	nice to meet you (long)
+lief	lovely, sweet
+liggen	to lie
+lijken	to seem
+lijst	list
+lopend te voet	to walk by foot
+meenemen	to take, bring smth with you
+men	one, you
+merken	to notice
+minstens	at least
+moe	tired
+nat	wet
+nodig	necessary
+nogal	rather (2)
+noteren	to write down
+onder	below
+onderstrepen	to underline
+ondertussen	meantime
+onmiddellijk	immediate
+ontstaan	to arise
+op bezoek gaan	to go visit
+opeten	to finish eating something
+opnemen de telefoon	to answer the phone
+opruimen	to clean up
+overigens	moreover
+overkomen	to happen to
+overslaan	to skip
+overtuigend	convincing
+pakken	to pack, to get smth
+per	by, per
+pinnen	to pay by debit card
+plakken	to paste
+Polen	Poland
+raar	strange
+rangtelwoorden	ordinal numbers
+recht	straight
+roepen	to call (2)
+roeren	to stir
+roze	pink
+schieten	to shoot
+schuiven	to push, to pull
+slordig	messy
+sluiten	to close
+smeren	to spread
+snappen	to understand (2)
+Spanje	Spain
+spannend	exciting
+spoed	urgent
+stampen	to mash
+stappen	to go out (and drink)
+starten	to start
+stijgen	to rise
+succes	good luck
+tegelijk	at the same time
+teleurgesteld	disappointed
+telkens	each time
+tellen	to count
+terecht	fair, justly, deserved
+tijd doorbrengen	to spend time
+toch	yet (2)
+treffen	to hit, to strike
+trots	proud
+trouw	faithful
+trouwen	to marry
+tweemaal	twice
+twijfelen	to doubt
+twintig voor vijf	twenty to five
+uit eten gaan	to go out for dinner
+uit je hoofd leren	to learn by heart
+uitgeven	to spend
+uitstappen	to get off
+van twee uur tot vijf uur	from two till five o’clock
+van wie	whose
+vandaar	hence
+vasthouden	to hold (in hand)
+veertien	fourteen
+verantwoordelijk	responsible
+verdienen	to earn
+verdrietig	sad
+verlaten	to leave (+smth, e.g. trein) without intent to return
+verlopen	to expire (2)
+verplichten	to oblige
+verrassen	to surprise
+verschillend	different (adj.)
+vertrouwen	to trust
+verveeld	bored
+vervelen	to annoy
+verwachten	to expect
+verwarmen	to warm
+verwijzen	to refer
+verzamelen	to collect
+verzinnen	to make up
+vijf over half vier	twenty five to four
+vijf voor acht	five to eight
+vijftiende	fifteenth
+volledig	fully, complete
+voor	before, in front of
+voorkomen	to prevent
+voorlopig	provisional
+voorstellen	to propose
+voorzien	to provide
+vrezen	to fear
+vriendelijk	friendly
+vrije tijd	leisure time
+vrolijk	cheerful
+waarbij	in which
+waardoor	whereby, as a result of which
+waarschijnlijk	probable
+waarvoor	what for
+wachten	to wait
+wanneer	when
+wat	some / somewhat
+Wat voor weer wordt het?	What will be the weather?
+weg	gone, away (adv.)
+welkom	welcome
+wellicht	perhaps, maybe (2)
+wennen	to get used to
+werkloos	unemployed
+zacht	soft
+zeer	painful
+zelfs	even
+zelfstandig	independent
+zich afvragen	to wonder
+zich ontspannen	to relax
+zich ziek melden	to report oneself ill
+zo	like this
+zo meteen	very soon
+zomaar	simply, easily (adv.)
+zonnen	to sunbathe
+zorgen	to care
+zouden	would
+zuur	acid
