@@ -1,0 +1,100 @@
+adresa	address
+anglicky	English
+černý	черный
+Češka	чешка
+cizí	foreign, strange
+co	что
+cvičení	exercise
+dítě	ребенок
+dobrý	хороший
+dole	внизу
+hezký	красивый
+hlava	head
+holka	girl
+horní	upper
+hrad	крепость, кремль, замок
+já	я
+jaký	какой
+je	is
+je jako	is like
+jméno	name
+jsme	we are
+jsou	they are
+kamarádka	friend (fem.)
+kde	где
+kdy	when
+koberec	ковер
+koleno	knee
+křeslo	кресло
+který	which
+květina	цветок
+lampa	лампа
+lékaři	doctors (m)
+lékařka	doctor (f)
+levý	left
+malý	маленький
+moderní	современный
+modrý	голубой
+na stole	на столе
+nalevo	слева, влево, налево 2
+nejsem	I am not
+nejsi	you are not
+nejsou	they are not
+nejste	you all are not
+není	is not
+noha	leg, foot
+obraz	картина
+Odkud?	Where from?
+odpoledne	afternoon
+paní	госпожа (замужняя)
+papír	paper
+pero	ручка
+pokoj	комната
+poledne	noon
+pondělí	Monday
+postel	кровать
+pravda	truth
+pravidelně	regularly
+profesor	профессор
+protože	because
+ráno	morning
+rok	year
+rozhovor	dialogue
+ruka	hand, arm
+Rus	русский
+sedět	to sit
+sešit	тетрадь
+škola	school
+skříň	шкаф
+slovo	слово
+spím	я сплю
+stojí	стоит
+středa	Wednesday
+student	студент
+studentka	студентка
+studentky	Students (f)
+televize	телевизор
+trochu	a little, a few
+tužka	pencil
+týden	week
+učím	я учу (teach)
+učit	to teach
+učitel	учитель
+učitelé	teachers (m)
+učitelka	учительница
+v poledne	at noon
+v pondělí	on Monday
+v restauraci	in the restaurant
+v sobotu	on Saturday
+v úterý	on Tuesday
+vařím	я готовлю
+ve čtvrtek	on Thursday
+ve předu	спереди, впереди
+večer	evening, in the evening
+vedle	возле, рядом
+velký	большой
+víkend	weekend
+vlevo	слева, влево, налево
+zelený	зеленый
+zimní	winter (adj.)
+žlutý	желтый

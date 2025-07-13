@@ -1,0 +1,66 @@
+acht	eight
+de avond	the evening
+de bus	the bus
+de computer	the computer
+de dag	the day
+de deur	the door
+de fiets	the bicycle
+de groente	the vegetable
+de keuken	the kitchen
+de maand	the month
+de middag	the afternoon
+de minuut	the minute
+de nacht	the night
+de ochtend	the morning
+de slaapkamer	the bedroom
+de stad	the city
+de straat	the street
+de telefoon	the phone
+de trein	the train
+de winkel	the shop
+dinsdag	Tuesday
+doen	to do
+donderdag	Thursday
+drie	three
+eerst	first
+één	one
+gisteren	yesterday
+hebben	to have
+het brood	the bread
+het fruit	the fruit
+het huis	the house
+het internet	the internet
+het jaar	the year
+het land	the country
+het raam	the window
+het scherm	the screen
+het toilet	the toilet / the restroom
+het uur	the hour
+het water	the water
+hij	he
+ik	I
+jij	ты
+jullie	вы
+laatst	last / final / latest
+maandag	Monday
+maken	to make
+morgen	tomorrow
+negen	nine
+nul appels	zero apples
+tien	ten
+twee	two
+u	ты (уважит.)
+vanavond	tonight
+vandaag	today
+vier	four
+vijf	five
+vrijdag	Friday
+wij	we
+woensdag	Wednesday
+zaterdag	Saturday
+zes	six
+zeven	seven
+zij	she
+zij	they
+zijn	to be
+zondag	Sunday

@@ -1,0 +1,62 @@
+het humeur	the mood
+de gevoelens	the feelings
+chagrijnig	grumpy
+moe	tired
+teleurgesteld	disappointed
+vervelend	annoying
+vervelen	to annoy
+verdrietig	sad
+boos	angry
+kwaad	furious
+depressief	depressive
+onrustig	restless
+bang	afraid
+ongeduldig	impatient
+blij	happy (short term)
+vrolijk	cheerful
+tevreden	satisfied
+ontevreden	dissatisfied
+verrast	surprised
+enthousiast	enthusiastic
+ontspannen	relaxed
+romantisch	romantic
+vriendelijk	friendly, kindly
+sympathiek	sympathetic
+zielig	pathetic
+serieus	serious
+lachen	to laugh
+wassen	to wash
+gedragen	to behave
+haten	to hate
+delen	to share
+kiezen	to choose
+begrijpen	to understand
+ik begrijp het niet	I don’t understand
+dromen	to dream
+genieten	to enjoy
+huilen	to cry
+ontdekken	to discover
+ontwikkelen	to develop
+praten	to talk
+vergelijken	to compare
+vergissen	to be mistaken
+verkopen	to sell
+vertrekken	to leave (expected to be back)
+weggaan	to go away
+verlaten	to leave (+smth, e.g. trein) without intent to return
+achterlaten	to leave smth/smb in the other place
+vertrouwen	to trust
+verwachten	to expect
+in verwachting	expecting (a baby)
+zwanger	pregnant
+zingen	to sing
+zoeken	to search
+zullen	will, shall
+ik zal	I will
+bijten	to bite
+noemen	to name, to call smth
+bedoelen	to mean
+bewegen	to move
+lijken	to seem
+laten zien	to show
+overwegen	to consider
