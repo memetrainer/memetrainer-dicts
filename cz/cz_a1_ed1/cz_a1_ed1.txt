@@ -1,0 +1,150 @@
+ananas	ананас
+barva	цвет
+bez	без
+bobule	ягода
+bonbon	конфеты
+brambory	картофель
+bratranec	двоюродный брат
+broskev	персик
+brzy	вскоре, скоро, рано
+buchta	булочка
+cena	цена
+centrum	центр
+čeština	чешский
+chladno	холодно
+chlapec	мальчик
+chléb	хлеб
+chodba	коридор
+cibule	лук (репчатый)
+církev	церковь
+citron	лимон
+člověk	человек
+cukr	сахар
+dar	подарок
+datum narození	дата рождения
+dívka	девочка
+dlouho	долго
+do	в, до
+dopis	письмо
+dveře	дверь
+džem	варенье
+hladový	голодный
+hlavní	главный
+hora	гора
+hory	горы
+host	гость
+hotel	гостиница
+hotovo	сделано, готово
+houba	гриб
+hrách	горох
+hrozny	виноград
+hruška	груша
+inženýr	инженер
+jablko	яблоко
+jahoda	клубника
+jak	как
+jezdit na kole	ездить на велосипеде
+kabát	пальто
+kakao	какао
+kamera	камера
+kaše	каша
+klíč	ключ
+klobása	колбаса
+klobouk	шляпа
+koláč	пирог
+koupelna	ванная
+krát	столько
+křižovatka	перекрёсток
+kuchyně	кухня
+kufr	чемодан
+květen	май
+láhev	бутылка
+lednička	холодильник
+les	лес
+letadlo	самолет
+ložnice	спальня
+lžíce	ложка
+malíř	художник
+máslo	масло
+med	мёд
+měkký	мягкий
+meloun	дыня
+meruňka	абрикос
+místo	место
+mrkev	морковь
+na jaře	весной
+na podzim	осенью
+nízký	низкий
+nudle	лапша
+nůž	нож
+obálka	конверт
+obtížný	тяжёлый, трудный
+obývací pokoj	зал
+odkud	откуда
+okurka	огурец
+olej	растительное масло
+ořech	орех
+park	парк
+patro	этаж
+pepř	горький перец
+pod	под
+podlaha	пол
+podšálek	блюдце
+pohovka	диван
+policie	полиция
+polštář	подушка
+pomalu	медленно
+pomeranč	апельсин
+pošta	почта
+pracovník	рабочий
+pták	птица
+rajče	помидор
+řepa	свекла
+řidič	водитель
+říjen	октябрь
+rozzlobený	сердитый
+ryba	рыба
+rychle	быстро
+s	с
+šachy	шахматы
+šálek	чашка
+šaty	платье
+sendvič	бутерброд
+sestřenice	двоюродная сестра
+sklenice	стакан
+sladkost	конфета, сладость
+snídaně	завтрак
+sodovka	газировка
+sprcha	душ
+srpen	август
+strop	потолок
+strýc	дядя
+sůl	соль
+svůj	свой
+sýr	сыр
+talíř	тарелка
+tchán	тесть (свекор)
+tchyně	теща (свекровь)
+televizor	телевизор
+teplo	теплo
+teta	тетя
+toaleta	туалет
+trh	рынок
+tvrdý	твёрдый
+ubrousek	салфетка
+účetní	бухгалтер
+únor	февраль
+váza	ваза
+včera	вчера
+večeře	ужин
+vejce	яйцо
+vidlička	вилка
+vodní meloun	арбуз
+volný	свободный
+zahrada	сад
+zákusek	пирожное
+zdravotní sestra	медсестра
+zelí	капуста
+zima	зима
+zrcadlo	зеркало
+zvíře	животное

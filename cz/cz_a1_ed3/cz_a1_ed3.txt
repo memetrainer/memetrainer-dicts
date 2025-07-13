@@ -1,0 +1,117 @@
+abeceda	алфавит
+balkón	балкон
+brýle	очки
+celý	целый, весь
+cesta	путь
+cestovat	путешествовать
+čistit	очистить
+dávat	дать
+děkovat	благодарить
+dívat se	смотреть
+dospělý	взрослый, зрелый
+dostat	получить, принять
+fialový	фиолетовый
+flétna	флейта
+fotografovat	фотографировать
+foukat	удар
+gramatika	грамматика
+Hodně štěstí a zdraví!	Удачи и здоровья!
+hodný	хороший, добрый
+horko	жарко
+horký	горячий
+jezdit	кататься, ездить
+kašel	кашель
+klavír	пианино
+knížka	книжка
+konec	конец
+koníček	хобби
+koupat se	принять ванну
+krásně	красиво
+krk	горло
+kupovat	купить
+loď	корабль
+lyže	лыжи
+lyžovat	кататься на лыжах
+Měj se hezky!	Хорошего дня тебе!
+Mějte se hezky!	Хорошего дня вам!
+milý	милый, дорогой
+mít hlad	быть голодным
+mít na sobě	носить (одежду)
+mít žízeň	испытывать жажду
+muzika	музыка (informal)
+navštívit	посетить
+nějaký	какой-то, некий
+několik	несколько
+některý	некоторые
+Není zač	Все хорошо
+nerad	нехотя, неохотно
+nikam	никуда
+nosit	носить
+oblečení	одежда
+oblíbený	любимый, популярный
+odpověď	ответ
+oranžový	оранжевый
+oslava	торжества
+otvírat	открыть
+platit	платить
+plný	полный, наполненный
+podepsat se	подписаться
+pohled	вид
+policistka	сотрудница полиции
+pomáhat	помогать
+pomoct	помощь
+poslední	последний
+potom	потом, затем, дальше
+potřebovat	нуждаться, требовать
+přání	желание
+prázdniny	каникулы
+připravovat se	готовиться, подготавливаться
+pršet	дождь
+ptát se	спросить
+ředitelka	директриса
+říkat	сказать
+ruce	руки
+růžový	розовый
+rýma	насморк
+sám	сам
+sami	сами
+silný	сильный, крепкий
+školní	школьный
+sladký	сладкий
+špagety	спагетти
+spolužačka	одноклассница
+spolužák	одноклассник
+štíhlý	стройный
+studený	холодный
+suchý	сухой
+sušenky	печенье
+svačina	второй завтрак, полдник
+tabule	доска
+telefonovat	звонить, разговаривать по телефону
+třída	класс
+učebnice	учебник
+umývadlo	умывальник
+v pořádku	в порядке
+venku	снаружи, на улице
+volno	досуг, свободное время
+vracet se	вернуться
+Všechno nejlepší!	Всего наилучшего!
+výborně	замечательно, отлично
+výborný	отличный, замечательный
+východ	выход, восход, восток
+vyučování	обучение
+vzít si	жениться
+záchod	уборная
+záda	спина, хребет
+žádný	никакой, совсем не
+zajímat se	интересоваться
+zajímavý	интересный
+žák	ученик
+základní	основной, первичный
+žákyně	ученица
+zavírat	запирать, закрывать
+zavolat	перезвонить, позвонить 2
+zavřený	закрытый
+zdraví	здоровье
+zpátky	обратно, назад
+zub	зуб

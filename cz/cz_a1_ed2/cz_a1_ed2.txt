@@ -1,0 +1,150 @@
+balónek	воздушный шарик
+bazén	бассейн
+blond	блондин
+březen	март
+břicho	живот
+bunda	куртка
+čepice	шапка
+červen	июнь
+červenec	июль
+česnek	чеснок
+chodit	гулять
+chyba	ошибка
+čistý	чистый
+dárek	подарок 2
+deštník	зонт
+diktát	диктант
+drahý	дорогой
+duben	апрель
+fotografie	фотографии
+francouzsky	французский
+guma	жевательная резинка
+hloupý	глупый
+hodně	много
+housle	скрипка
+hračka	игрушка
+hřeben	расчёска
+jaro	весна
+jazyk	язык
+jízdenka	билет на поезд, автобус
+kalhoty	брюки
+kamera	камера
+kapesník	носовой платок
+kečup	кетчуп
+kolo	велосипед
+košile	рубашка
+krátký	короткий
+kravata	галстук
+kytara	гитара
+leden	январь
+lehký	легкий (по весу)
+letenka	билет на самолет
+léto	лето
+levný	дешёвый
+limonáda	лимонад
+listopad	ноябрь
+mezi	между
+míč	мяч
+minulý	прошлый
+mokrý	влажный
+moře	море
+mýdlo	мыло
+naš	наш
+návštěva	визит
+německy	немецкий
+nemocný	больной, нездоровый
+nést	нести
+Nový rok	Новый год
+obědvat	обедать
+oči	глаза
+od	от
+oděv	одежда
+odpočívat	отдыхать
+odpovídat	ответить
+opakovat	повторить
+opice	обезьяна
+otázka	вопрос
+ovocný	фруктовый
+paprika	паприка
+pěkný	красивый
+plán	план
+plavky	купальник
+po	после
+počítat	считать
+podle	по, согласно
+podzim	осень
+pohádka	сказка
+pohlednice	открытка
+polibek	поцелуй
+policista	полицейский
+ponožka	носок
+pozdě	поздно
+později	поздно
+pozorný	внимательный
+před	до, прежде, перед
+přehrávač	плейер
+přestávka	перерыв
+připravený	готовый, приготовленный
+příroda	природа
+příští	следующий
+prodávat	продавать
+prosinec	декабрь
+půjčit	одолжить
+půl	половина
+půlnoc	полночь
+rád	рад(остный)
+ředitel	директор
+rukavice	перчатка
+sako	пиджак
+sama	сама
+samozřejmě	конечно
+šátek	шарф
+šedý	серый
+sejít se	встретиться
+slaný	соленый
+slunce	солнце
+slyšet	слышать
+snadný	лёгкий, несложный
+sněží	идет снег
+snídat	завтракать
+šortky	шорты
+souhlasit	согласиться
+špinavý	грязный
+správně	правильно
+správný	правильный
+strana	страница
+strom	дерево
+studovat	учиться
+sukně	юбка
+šunka	ветчина
+svátek	праздник
+světlo	свет
+svítit	светить
+taška	сумка
+teplý	теплый
+text	текст
+těžký	тяжелый (по весу)
+ticho	тихо, тишина
+tma	тьма, темнота
+tmavý	тёмный
+účet	счёт
+úkol	задача
+umět	уметь, знать
+uši	уши
+v krku	в горле
+v ruce	в руке
+v zimě	зимой
+ve třídě	в классе
+věc	вещь
+Velikonoce	пасха
+veselý	веселый
+vlasy	волосы
+vpředu	впереди
+vstupenka	билет в кино, театр
+vzduch	воздух
+začátek	начало
+září	сентябрь
+žehlička	утюг
+zkouška	экзамен
+zlý	плохой, злой
+z, ze	из, с (2 формы)
