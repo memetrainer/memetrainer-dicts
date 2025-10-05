@@ -1,5 +1,14 @@
 # Copyright (c) 2025 Makarov Edgar. All rights reserved.
 
+############################################
+# List of dicts for French (dictprefix=fr) #
+############################################
+# DICTIONARY      WORDS       DESCRIPTIONs
+# a1_1            80w         A1 (General, Food, Home, People, Places)
+# a1_2            79w         A1 (Adjectives, Animals, Jobs, Transport, Verbs, Weather)
+# a1_3            75w         A1 (Shopping, Time and Days, Transport, Numbers)
+
+
 ###########################################
 # List of dicts for Dutch (dictprefix=nl) #
 ###########################################

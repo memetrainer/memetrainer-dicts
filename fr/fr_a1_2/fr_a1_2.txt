@@ -1,0 +1,79 @@
+jeune	young
+vieille	old (f)
+vieux	old (m)
+beau	beautiful (m)
+belle	beautiful (f)
+drôle	funny
+fâché	angry (m)
+fâchée	angry (f)
+heureuse	happy (f)
+heureux	happy (m)
+nerveuse	nervous (f)
+nerveux	nervous (m)
+triste	sad
+intelligent	smart (m)
+intelligente	smart (f)
+difficile	hard
+facile	easy
+fort	strong (m)
+forte	strong (f)
+grand	big (m)
+grande	big (f)
+petit	small (m)
+petite	small (f)
+le cheval	the horse
+le lapin	the rabbit
+un oiseau	a bird
+le chat	the cat
+le chien	the dog
+le dentiste	the dentist
+le médecin	the doctor
+un avocat	a lawyer (m)
+une avocate	a lawyer (f)
+un ouvrier	a worker (m)
+une ouvrière	a worker (f)
+la caissière	the cashier (f)
+la collègue	the colleague (f)
+le caissier	the cashier (m)
+le collègue	the colleague (m)
+la policière	the police officer (f)
+le policier	the police officer (m)
+la serveuse	the waitress
+le serveur	the waiter
+le plombier	the plumber (m)
+un ingénieur	an engineer (m)
+une ingénieure	an engineer (f)
+la moto	the motorcycle
+la voiture	the car
+le bateau	the boat
+le navire	the ship (big)
+le vélo	the bicycle
+un avion	an airplane
+attendre	to wait
+choisir	to choose
+finir	to finish
+perdre	to lose
+regarder	to watch
+vendre	to sell
+demander	to ask
+parler	to speak
+répondre	to respond
+grandir	to grow
+aimer	to like
+habiter	to live
+manger	to eat
+étudier	to study
+réussir	to succeed / pass (a test)
+penser	to think
+grossir	to gain weight
+entendre	to hear
+visiter	to visit (a place)
+il fait chaud	it is hot
+il fait froid	it is cold
+la météo	the weather forecast
+la pluie	the rain
+Quel temps fait-il ?	What is the weather?
+la neige	the snow
+le nuage	the cloud
+le soleil	the sun
+le vent	the wind
