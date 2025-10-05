@@ -6,12 +6,12 @@ le vin	the wine
 la pomme	the apple
 le fruit	the fruit
 une orange	an orange
-le déjeuner	lunch
-le dîner	dinner
-le petit déjeuner	breakfast
+le déjeuner	the lunch
+le dîner	the dinner
+le petit déjeuner	the breakfast
 la viande	the meat
 le poulet	the chicken
-le café	the cafe, the coffee
+le café	the cafe
 la carotte	the carrot
 la pomme de terre	the potato
 la tomate	the tomato
@@ -28,7 +28,7 @@ les toilettes	the toilet
 la maison	the house
 le mur	the wall
 le sol	the floor
-un escalier	stairs
+un escalier	the stairs
 la chaise	the chair
 la lampe	the lamp
 la table	the table
