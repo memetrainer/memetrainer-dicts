@@ -1,0 +1,75 @@
+déjà	already
+plus tôt	earlier
+assez	quite
+trop	too much
+malheureusement	unfortunately
+très	very
+et	and
+parce que	because
+mais	but
+ni	neither
+ou	or
+donc	so
+cinquante	fifty
+quarante	forty
+soixante	sixty
+zéro	zero
+dix-huit	eighteen
+onze	eleven
+quinze	fifteen
+quatorze	fourteen
+dix-neuf	nineteen
+dix-sept	seventeen
+seize	sixteen
+treize	thirteen
+trente	thirty
+trente-et-un	thirty-one
+douze	twelve
+vingt	twenty
+vingt-huit	twenty-eight
+vingt-cinq	twenty-five
+vingt-quatre	twenty-four
+vingt-neuf	twenty-nine
+vingt-et-un	twenty-one
+vingt-sept	twenty-seven
+vingt-six	twenty-six
+vingt-trois	twenty-three
+vingt-deux	twenty-two
+Parlez-vous anglais ?	Do you speak English?
+excuse-moi	excuse me (informal)
+Bonne nuit	Good night
+Bonne journée !	Have a nice day!
+Salut	Hi / Bye
+Comment allez-vous ?	How are you? (formal)
+Comment ça va ?	How are you? (informal)
+Combien ça coûte?	How much is it?
+C'est par où …, s'il vous plaît?	How to get to ..., please?
+Je ne comprends pas	I don't understand
+Ça va	I'm fine
+Ça va très bien	I'm very well
+Je m'appelle …	My name is …
+Enchanté	Nice to meet you (m)
+Pas mal	Quite good
+À tout à l'heure !	See you in a bit!
+À plus tard !	See you later!
+pardon	sorry
+merci beaucoup	thank you very much
+Comment vous appelez-vous ?	What's your name? (formal)
+Comment tu t'appelles ?	What's your name? (informal)
+Où sont les toilettes ?	Where are the toilets?
+Où est la gare ?	Where is the train station?
+de rien	you're welcome
+après	after
+avant	before
+enfin	finally
+ensuite	next
+puis	then
+une année	a year (duration)
+une demi-heure	half an hour
+un jour	one day
+un an	one year
+la journée	the day (duration)
+la minute	the minute
+le mois	the month
+la seconde	the second
+la semaine	the week
