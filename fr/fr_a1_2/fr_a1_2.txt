@@ -1,0 +1,80 @@
+fâchée	angry (f)
+fâché	angry (m)
+belle	beautiful (f)
+beau	beautiful (m)
+grande	big (f)
+grand	big (m)
+facile	easy
+drôle	funny
+heureuse	happy (f)
+heureux	happy (m)
+difficile	hard
+nerveuse	nervous (f)
+nerveux	nervous (m)
+vieille	old (f)
+vieux	old (m)
+triste	sad
+petite	small (f)
+petit	small (m)
+intelligente	smart (f)
+intelligent	smart (m)
+forte	strong (f)
+fort	strong (m)
+jeune	young
+un oiseau	a bird
+le chat	the cat
+la vache	the cow
+le chien	the dog
+le cheval	the horse
+le lapin	the rabbit
+une avocate	a lawyer (f)
+un avocat	a lawyer (m)
+une ouvrière	a worker (f)
+un ouvrier	a worker (m)
+une ingénieure	an engineer (f)
+un ingénieur	an engineer (m)
+la caissière	the cashier (f)
+le caissier	the cashier (m)
+la collègue	the colleague (f)
+le collègue	the colleague (m)
+le dentiste	the dentist (m/f)
+le médecin	the doctor (m/f)
+le plombier	the plumber (m)
+la policière	the police officer (f)
+le policier	the police officer (m)
+le serveur	the waiter
+la serveuse	the waitress
+un avion	an airplane
+le vélo	the bicycle
+le bateau	the boat
+la voiture	the car
+la moto	the motorcycle
+le navire	the ship (big)
+demander	to ask
+choisir	to choose
+manger	to eat
+finir	to finish
+grossir	to gain weight
+grandir	to grow
+entendre	to hear
+aimer	to like
+habiter	to live
+perdre	to lose
+répondre	to respond
+vendre	to sell
+parler	to speak
+étudier	to study
+réussir	to succeed / pass (a test)
+penser	to think
+visiter	to visit (a place)
+attendre	to wait
+regarder	to watch
+il fait froid	it is cold
+il fait chaud	it is hot
+le nuage	the cloud
+la pluie	the rain
+la neige	the snow
+le soleil	the sun
+la météo	the weather forecast
+le vent	the wind
+Quel temps fait-il ?	What is the weather?

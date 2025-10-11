@@ -1,0 +1,80 @@
+la galerie d'art	the art gallery
+la boucherie	the butcher's
+le château	the castle
+l'école primaire	the elementary school
+la bibliothèque	the library
+la pharmacie	the pharmacy
+la charcuterie	the pork delicatessen
+le collège	the secondary school
+le centre commercial	the shopping centre
+le tabac	the tobacconist
+l'office de tourisme	the tourist office
+un béret	a beret
+un vêtement	a piece of clothing
+la ceinture	the belt
+la casquette	the cap
+le manteau	the coat
+la robe	the dress
+les lunettes	the glasses
+les gants	the gloves
+le chapeau	the hat
+la veste	the jacket
+les sandales	the sandals
+la chemise	the shirt
+les chaussures	the shoes
+la jupe	the skirt
+la chaussette	the sock
+les chaussettes	the socks
+le pull	the sweater
+le tee-shirt	the t-shirt
+la cravate	the tie
+le pantalon	the trousers
+le slip	the underpants
+les baskets	the sneakers
+le manteau de pluie	the rain coat
+américaine	American (f)
+américain	American (m)
+chinoise	Chinese (f)
+chinois	Chinese (m)
+néerlandaise	Dutch (f)
+néerlandais	Dutch (m)
+allemande	German (f)
+allemand	German (m)
+italienne	Italian (f)
+italien	Italian (m)
+japonaise	Japanese (f)
+japonais	Japanese (m)
+russe	Russian (m/f)
+espagnole	Spanish (f)
+espagnol	Spanish (m)
+suisse	Swiss (m/f)
+ukrainienne	Ukrainian (f)
+ukrainien	Ukrainian (m)
+une crêpe	a crepe
+un œuf	an egg
+le beurre	the butter
+les œufs	the eggs
+la farine	the flour
+la poêle	the frying pan
+le miel	the honey
+la confiture	the jam
+la Chandeleur	the Pancake Day
+se régaler	to enjoy food deeply
+mélanger	to mix
+verser	to pour
+déguster	to taste
+un chocolat chaud	a hot chocolate
+un jus de fruits	a juice
+une carafe d'eau	a pitcher of water
+un soda	a soda
+sans sucre	sugar free
+le champagne	the champagne
+le cidre	the cider
+la tisane	the herbal tea
+le café au lait	the latte
+la limonade	the lemonade
+le jus d'orange	the orange juice
+l'eau pétillante	the sparkling water
+l'eau plate	the still water
+de l'eau du robinet	the tap water
+boire	to drink

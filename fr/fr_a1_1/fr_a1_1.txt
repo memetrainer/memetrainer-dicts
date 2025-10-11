@@ -1,0 +1,80 @@
+un enfant	a child
+une amie	a friend (f)
+un ami	a friend (m)
+un homme	a man
+le bébé	the baby
+le garçon	the boy
+la fille	the girl
+la voisine	the neighbor (f)
+le voisin	the neighbor (m)
+la personne	the person
+la femme	the woman
+une orange	an orange
+le petit-déjeuner	breakfast
+le dîner	dinner
+le déjeuner	lunch
+de l'eau	some water
+la pomme	the apple
+le café	the cafe, the coffee
+la carotte	the carrot
+le poulet	the chicken
+le poisson	the fish
+le fruit	the fruit
+la viande	the meat
+le lait	the milk
+la pomme de terre	the potato
+le thé	the tea
+la tomate	the tomato
+le légume	the vegetable
+les légumes	the vegetables
+le vin	the wine
+comment	how
+combien	how much (many)
+quoi	what
+quand	when
+où	where
+qui	who
+pourquoi	why
+un escalier	a staircase
+la salle de bain	the bathroom
+le lit	the bed
+la chambre	the bedroom
+la chaise	the chair
+le canapé	the couch
+la salle à manger	the dining room
+la porte	the door
+le sol	the floor
+la maison	the house
+la cuisine	the kitchen
+la lampe	the lamp
+le salon	the living room
+le four	the oven
+le réfrigérateur	the refrigerator
+la pièce	the room
+la douche	the shower
+la table	the table
+la télévision	the television
+les toilettes	the toilets
+le mur	the wall
+la fenêtre	the window
+excusez-moi	excuse me (formal)
+bonsoir	good evening
+bonjour	good morning
+au revoir	goodbye
+je suis désolé	I am sorry
+non	no
+s'il vous plaît	please (pl)
+à bientôt	see you soon
+merci	thank you
+oui	yes
+une école	a school
+une université	a university
+un océan	an ocean
+la plage	the beach
+la campagne	the countryside
+le marché	the market
+la montagne	the mountain
+le musée	the museum
+le parc	the park
+le restaurant	the restaurant
+le village	the village

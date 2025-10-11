@@ -1,0 +1,80 @@
+un haricot	a bean
+un chou	a cabbage
+un chou-fleur	a cauliflower
+un ail	a garlic
+une oie	a goose
+un poireau	a leek
+une laitue	a lettuce
+un champignon	a mushroom
+un potiron	a pumpkin
+un radis	a radish
+une tranche	a slice
+une épicerie	a small grocery store
+un oignon	an onion
+du céleri	celery
+sans matières grasses	fat-free
+salé	salted
+fumé	smoked
+des épinards	spinach
+le code-barres	the barcode
+les boissons	the beverages
+le bleu	the blue cheese
+le brocoli	the broccoli
+les conserves	the canned goods
+les céréales	the cereals
+la monnaie	the change
+la fromagerie	the cheese shop
+le maïs	the corn
+le lait de vache	the cow’s milk
+la crème	the cream
+le fromage à la crème	the cream cheese
+le café décaféiné	the decaffeinated coffee
+le gras	the fat
+le filet	the fillet
+le fromage frais	the fresh cheese
+les produits surgelés	the frozen foods
+le lait de chèvre	the goat’s milk
+le fromage râpé	the grated cheese
+les provisions	the groceries
+le café moulu	the ground coffee
+la moitié	the half
+le jambon	the ham
+la sauce pimentée	the hot sauce
+les produits d’entretien	the household cleaning products
+la glace	the ice cream
+le foie	the liver
+les magazines	the magazines
+les morceaux de viande	the meat cuts
+la viande hachée	the minced meat
+l'eau minérale	the mineral water
+la moutarde	the mustard
+l'huile d'olive	the olive oil
+la pâtisserie	the pastry shop
+le poivre	the pepper
+les plats cuisinés	the ready-made meals
+le panier	the shopping basket
+le sucre	the sugar
+les articles de toilette	the toiletries
+le vinaigre	the vinegar
+la crème Chantilly	the whipped cream
+le yaourt	the yogurt
+peser	to weigh
+le chariot	the trolley
+la promotion	the special offer
+trente-et-un	thirty-one
+vingt-huit	twenty-eight
+vingt-cinq	twenty-five
+vingt-quatre	twenty-four
+vingt-neuf	twenty-nine
+vingt-et-un	twenty-one
+vingt-sept	twenty-seven
+vingt-six	twenty-six
+vingt-trois	twenty-three
+vingt-deux	twenty-two
+quatre-vingt-quatre	eighty-four
+quatre-vingt-six	eighty-six
+quatre-vingt-dix-huit	ninety-eight
+quatre-vingt-onze	ninety-one
+quatre-vingt-douze	ninety-two
+soixante-quatorze	seventy-four
+soixante-seize	seventy-six

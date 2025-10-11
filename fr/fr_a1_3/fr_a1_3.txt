@@ -1,0 +1,80 @@
+la boulangerie	the bakery
+la ville	the city
+le centre-ville	the city center
+le passage piéton	the crosswalk
+le quartier	the neighborhood
+le magasin	the shop
+la rue	the street
+le supermarché	the supermarket
+première	first (f)
+premier	first (m)
+deuxième	second
+troisième	third
+huit	eight
+cinq	five
+quatre	four
+neuf	nine
+un	one
+sept	seven
+six	six
+dix	ten
+trois	three
+deux	two
+Vous avez des toilettes ?	Do you have a restroom?
+Combien ça coûte ?	How much does it cost?
+je cherche	I am looking for ...
+je voudrais	I would like ...
+c'est trop cher	it's too expensive
+un sac	a bag
+une bouteille de	a bottle of
+une carte bancaire	a credit card
+une réduction	a discount
+un kilo de	a kilo of
+un paquet de	a pack of
+un morceau de	a piece of
+fermé	closed
+en espèces	in cash
+ouvert	open
+la bière	the beer
+le pain	the bread
+la caisse	the checkout
+le fromage	the cheese
+le concombre	the cucumber
+le prix	the price
+le reçu	the receipt
+la saucisse	the sausage
+un après-midi	an afternoon
+une heure	an hour
+tôt	early
+tard	late
+minuit	midnight
+midi	noon
+maintenant	now
+bientôt	soon
+le soir	the evening
+le matin	the morning
+la nuit	the night
+aujourd'hui	today
+demain	tomorrow
+hier	yesterday
+vendredi	Friday
+lundi	Monday
+samedi	Saturday
+dimanche	Sunday
+jeudi	Thursday
+mardi	Tuesday
+mercredi	Wednesday
+un arrêt de bus	a bus stop
+un ticket	a ticket
+une adresse	an address
+le bus	the bus
+la sortie	the exit
+le plan	the map
+le métro	the metro
+la station de métro	the metro station
+la ligne	the metro/bus line
+le taxi	the taxi
+le billet	the ticket
+le feu rouge	the traffic light
+le train	the train
+la gare	the train station

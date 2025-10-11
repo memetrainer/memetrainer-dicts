@@ -1,0 +1,80 @@
+noire	black (f)
+noir	black (m)
+bleue	blue (f)
+bleu	blue (m)
+marron	brown
+verte	green (f)
+vert	green (m)
+grise	grey (f)
+gris	grey (m)
+orange	orange
+rose	pink
+violette	purple (f)
+violet	purple (m)
+rouge	red
+blanche	white (f)
+blanc	white (m)
+jaune	yellow
+la République Tchèque	the Czech Republic
+les Pays-Bas	the Netherlands
+le Royaume-Uni	the United Kingdom
+les États-Unis	the USA
+l'arabe	Arabic
+le hollandais	Dutch
+l'anglais	English
+le français	French
+l'allemand	German
+l'hébreu	Hebrew
+l'italien	Italian
+le japonais	Japanese
+le russe	Russian
+à gauche	(on the) left
+à droite	(on the) right
+tout droit	straight on
+le carrefour	the intersection
+le trottoir	the pavement
+la route	the road
+le rond-point	the roundabout
+continuer	to continue
+traverser	to cross
+prendre	to take
+tourner	to turn
+une cuisse	a thigh
+le bœuf	the beef
+de l'agneau	the lamb
+le porc	the pork
+le steak	the steak
+le veau	the veal
+cinq milliards	five billion
+cinq cents	five hundred
+cinq cent mille	five hundred thousand
+cinq millions	five million
+un milliard	one billion
+cent	one hundred
+cent mille	one hundred thousand
+un million	one million
+mille	one thousand
+dix mille	ten thousand
+deux cents	two hundred
+deux mille	two thousand
+avril	April
+août	August
+décembre	December
+février	February
+janvier	January
+juillet	July
+juin	June
+mars	March
+mai	May
+novembre	November
+octobre	October
+septembre	September
+un car	a coach
+un ferry	a ferry
+un hélicoptère	a helicopter
+une trottinette	a scooter
+les transports	the public transport
+le tramway	the tram
+conduire	to drive
+voler	to fly
+voyager	to travel
