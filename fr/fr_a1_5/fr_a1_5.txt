@@ -25,7 +25,7 @@ les céréales	the cereals
 la monnaie	the change
 la fromagerie	the cheese shop
 le maïs	the corn
-le lait de vache	the cow’s milk
+le lait de vache	the cow's milk
 la crème	the cream
 le fromage à la crème	the cream cheese
 le café décaféiné	the decaffeinated coffee
@@ -33,14 +33,14 @@ le gras	the fat
 le filet	the fillet
 le fromage frais	the fresh cheese
 les produits surgelés	the frozen foods
-le lait de chèvre	the goat’s milk
+le lait de chèvre	the goat's milk
 le fromage râpé	the grated cheese
 les provisions	the groceries
 le café moulu	the ground coffee
 la moitié	the half
 le jambon	the ham
 la sauce pimentée	the hot sauce
-les produits d’entretien	the household cleaning products
+les produits d'entretien	the household cleaning products
 la glace	the ice cream
 le foie	the liver
 les magazines	the magazines
