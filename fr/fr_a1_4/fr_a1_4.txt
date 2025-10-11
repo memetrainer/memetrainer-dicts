@@ -37,11 +37,11 @@ Bonne journée !	Have a nice day!
 salut	hi / bye
 Comment allez-vous ?	How are you? (formal)
 Comment ça va ?	How are you? (informal)
-C'est par où …, s'il vous plaît?	How to get to ..., please?
+C'est par où ..., s'il vous plaît ?	How to get to ..., please?
 Je ne comprends pas	I don't understand
 ça va	I'm fine
 ça va très bien	I'm very well
-Je m'appelle …	My name is …
+Je m'appelle ...	My name is ...
 Enchanté	Nice to meet you (m)
 pas mal	quite good
 À tout à l'heure !	See you in a bit!
