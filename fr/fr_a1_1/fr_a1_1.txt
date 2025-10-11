@@ -1,80 +1,80 @@
-le poisson	the fish
-de l'eau	some water
-le lait	the milk
-le thé	the tea
-le vin	the wine
-la pomme	the apple
-le fruit	the fruit
+un enfant	a child
+une amie	a friend (f)
+un ami	a friend (m)
+un homme	a man
+le bébé	the baby
+le garçon	the boy
+la fille	the girl
+la voisine	the neighbor (f)
+le voisin	the neighbor (m)
+la personne	the person
+la femme	the woman
 une orange	an orange
-le déjeuner	the lunch
-le dîner	the dinner
-le petit déjeuner	the breakfast
-la viande	the meat
-le poulet	the chicken
-le café	the cafe
+le petit-déjeuner	breakfast
+le dîner	dinner
+le déjeuner	lunch
+de l'eau	some water
+la pomme	the apple
+le café	the cafe, the coffee
 la carotte	the carrot
+le poulet	the chicken
+le poisson	the fish
+le fruit	the fruit
+la viande	the meat
+le lait	the milk
 la pomme de terre	the potato
+le thé	the tea
 la tomate	the tomato
 le légume	the vegetable
 les légumes	the vegetables
-non	no
-oui	yes
-à bientôt	see you soon
-au revoir	goodbye
-bonjour	good morning
-bonsoir	good evening
-la douche	the shower
-les toilettes	the toilet
-la maison	the house
-le mur	the wall
-le sol	the floor
-un escalier	the stairs
-la chaise	the chair
-la lampe	the lamp
-la table	the table
-le canapé	the couch
+le vin	the wine
+comment	how
+combien	how much (many)
+quoi	what
+quand	when
+où	where
+qui	who
+pourquoi	why
+un escalier	a staircase
+la salle de bain	the bathroom
 le lit	the bed
+la chambre	the bedroom
+la chaise	the chair
+le canapé	the couch
+la salle à manger	the dining room
+la porte	the door
+le sol	the floor
+la maison	the house
+la cuisine	the kitchen
+la lampe	the lamp
+le salon	the living room
 le four	the oven
 le réfrigérateur	the refrigerator
-la fenêtre	the window
-la porte	the door
-la télévision	the television
-la chambre	the bedroom
-la cuisine	the kitchen
 la pièce	the room
-la salle à manger	the dining room
-la salle de bain	the bathroom
-le salon	the living room
-la femme	the woman
-la fille	the girl
-la personne	the person
-le garçon	the boy
-un homme	a man
-le bébé	the baby
-un enfant	a child
-la voisine	the neighbor (f)
-le voisin	the neighbor (m)
-un ami	a friend (m)
-une amie	a friend (f)
-le musée	the museum
+la douche	the shower
+la table	the table
+la télévision	the television
+les toilettes	the toilets
+le mur	the wall
+la fenêtre	the window
+excusez-moi	excuse me (formal)
+bonsoir	good evening
+bonjour	good morning
+au revoir	goodbye
+je suis désolé	I am sorry
+non	no
+s'il vous plaît	please (pl)
+à bientôt	see you soon
+merci	thank you
+oui	yes
 une école	a school
 une université	a university
-le village	the village
-la campagne	the countryside
-la montagne	the mountain
-la plage	the beach
-le parc	the park
 un océan	an ocean
-le restaurant	the restaurant
+la plage	the beach
+la campagne	the countryside
 le marché	the market
-excusez-moi	excuse me (pl)
-merci	thank you
-s'il vous plaît	please (pl)
-je suis désolé	I am sorry
-combien	how much (many)
-comment	how
-où	where
-pourquoi	why
-quand	when
-qui	who
-quoi	what
+la montagne	the mountain
+le musée	the museum
+le parc	the park
+le restaurant	the restaurant
+le village	the village

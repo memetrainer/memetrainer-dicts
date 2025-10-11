@@ -1,0 +1,80 @@
+un libraire	a bookshop owner
+un homme d'affaires	a businessman
+une agricultrice	a farmer (f)
+un agriculteur	a farmer (m)
+un pompier	a fireman
+une hôtesse de l'air	a flight attendant (f)
+un steward	a flight attendant (m)
+un bibliothécaire	a librarian
+une infirmière	a nurse (f)
+un infirmier	a nurse (m)
+une factrice	a postwoman
+une commerçante	a shop keeper (f)
+un commerçant	a shop keeper (m)
+un soldat	a soldier
+une chirurgienne	a surgeon (f)
+un chirurgien	a surgeon (m)
+un comptable	an accountant
+un agent immobilier	an estate agent
+une informaticienne	an IT specialist (f)
+un informaticien	an IT specialist (m)
+une coiffeuse	hairdresser (f)
+un coiffeur	hairdresser (m)
+professeur	teacher (m/f)
+une lettre	a letter
+un colis	a parcel
+une carte postale	a postcard
+un facteur	a postman
+une expéditrice	a sender (f)
+un expéditeur	a sender (m)
+un timbre	a stamp
+une enveloppe	an envelope
+retour à l'expéditeur	return to sender
+le courrier	the mail
+le paquet	the packet
+la poste	the post office
+la boîte aux lettres	the postbox
+le destinataire	the recipient (m)
+arriver à destination	to reach one's destination
+recevoir	to receive
+envoyer	to send
+par avion	via air mail
+une herbe	(a) grass
+une fleur	a flower
+une feuille	a leaf
+un nid	a nest
+un chemin	a path
+un ruisseau	a stream
+un arbre	a tree
+une vallée	a valley
+le champ	the field
+la forêt	the forest
+le lac	the lake
+la nature	the nature
+la plaine	the plain
+la rivière	the river
+le ciel	the sky
+les bois	the woods
+quatre-vingt-huit	eighty-eight
+quatre-vingt-un	eighty-one
+quatre-vingt-deux	eighty-two
+quatre-vingt-quatorze	ninety-four
+quatre-vingt-seize	ninety-six
+soixante-dix-huit	seventy-eight
+soixante et onze	seventy-one
+soixante-douze	seventy-two
+un élève	a pupil (m)
+la biologie	the biology
+la chimie	the chemistry
+la classe	the classroom
+la géographie	the geography
+l'histoire	the history
+la leçon	the lesson
+les maths	the maths
+la musique	the music
+la philosophie	the philosophy
+la physique	the physics
+la maîtresse	the primary school teacher (f)
+le maître	the primary school teacher (m)
+les sciences humaines	the social sciences
+la matière	the subject

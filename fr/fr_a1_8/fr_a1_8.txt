@@ -1,0 +1,80 @@
+une lèvre	a lip
+une oreille	an ear
+un œil	an eye
+la joue	the cheek
+le menton	the chin
+le sourcil	the eyebrow
+le cil	the eyelash
+la paupière	the eyelid
+les yeux	the eyes
+le visage	the face
+le front	the forehead
+les cheveux	the hair
+la bouche	the mouth
+le nez	the nose
+les dents	the teeth
+la langue	the tongue
+la dent	the tooth
+un ongle	a nail
+la tante	the aunt
+le frère	the brother
+la famille	the family
+le père	the father
+le grand-père	the grandfather
+la grand-mère	the grandmother
+le mari	the husband
+la mère	the mother
+le neveu	the nephew
+la nièce	the niece
+les parents	the parents
+la sœur	the sister
+le fils	the son
+l'oncle	the uncle
+une cerise	a cherry
+une noix de coco	a coconut
+une figue	a fig
+un citron vert	a lime
+une mangue	a mango
+une pêche	a peach
+une pastèque	a watermelon
+les fruits rouges	the red berries
+une banane	a banana
+un pamplemousse	a grapefruit
+un citron	a lemon
+un ananas	a pineapple
+une framboise	a raspberry
+une fraise	a strawberry
+un abricot	an apricot
+le raisin	the grapes
+le raisin sec	the raisins
+un balcon	a balcony
+un étage	a floor
+une terrasse	a terrace
+une entrée	an entrance
+au premier étage	on the first floor
+au rez-de-chaussée	on the ground floor
+le sous-sol	the basement
+le couloir	the corridor
+le garage	the garage
+le jardin	the garden
+la buanderie	the laundry room
+le bureau	the office
+un oreiller	a pillow
+une table de chevet	a bedside table
+une commode	a chest of drawers
+un bureau	a desk
+un miroir	a mirror
+un poster	a poster
+une étagère	a shelf
+une armoire	a wardrobe
+les rideaux	the curtains
+la poubelle	the trash bin
+répondre à	to answer (smb)
+demander à	to ask (smb)
+pardonner à	to forgive (smb)
+donner à	to give to (smb)
+ressembler à	to look like (smb)
+envoyer à	to send to (smb)
+parler à	to speak to (smb)
+réfléchir à	to think about / to reflect on (smth)
+penser à	to think of (smb)

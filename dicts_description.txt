@@ -5,10 +5,15 @@
 ############################################
 # DICTIONARY      WORDS       DESCRIPTIONs
 # a1_1            80w         A1 (General, Food, Home, People, Places)
-# a1_2            79w         A1 (Adj, Animals, Jobs, Transport, Verbs, Weather)
-# a1_3            75w         A1 (Shopping, Time 1, Transport, Numbers)
-# a1_4            75w         A1 (Adv, Conj, Numbers 2, Phrases, Time 2)
-# a1_5            82w         A1 (Adj 2, Countries, Directions, Meat, Numbers 3, Months, Transport 2)
+# a1_2            80w         A1 (Adj, Animals, Jobs, Transport, Verbs, Weather)
+# a1_3            80w         A1 (Shopping, Time 1, Transport, Numbers)
+# a1_4            80w         A1 (Adv, Conj, Numbers 2, Phrases, Time 2, Vacation)
+# a1_5            80w         A1 (Groceries, Numbers 2)
+# a1_6            80w         A1 (Adj 2, Countries, Directions, Meat, Numbers 3, Months, Transport 2)
+# a1_7            80w         A1 (City, Clothes, Nationalities, Pancakes, Drinks)
+# a1_8            80w         A1 (Family 2, Face, Fruits, Home 2, Bedroom, Verbs 2)
+# a1_9            80w         A1 (Animals 2, Emotions, Everyday chores, Numbers 4, Office)
+# a1_10           80w         A1 (Jobs 2, Mail, Numbers 4, School)
 
 
 ###########################################

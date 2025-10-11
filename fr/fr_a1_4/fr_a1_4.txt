@@ -10,9 +10,14 @@ mais	but
 ni	neither
 ou	or
 donc	so
+onzième	eleventh
+cinquième	fifth
 cinquante	fifty
 quarante	forty
+quatrième	fourth
 soixante	sixty
+treizième	thirteenth
+douzième	twelfth
 zéro	zero
 dix-huit	eighteen
 onze	eleven
@@ -23,33 +28,22 @@ dix-sept	seventeen
 seize	sixteen
 treize	thirteen
 trente	thirty
-trente-et-un	thirty-one
 douze	twelve
 vingt	twenty
-vingt-huit	twenty-eight
-vingt-cinq	twenty-five
-vingt-quatre	twenty-four
-vingt-neuf	twenty-nine
-vingt-et-un	twenty-one
-vingt-sept	twenty-seven
-vingt-six	twenty-six
-vingt-trois	twenty-three
-vingt-deux	twenty-two
 Parlez-vous anglais ?	Do you speak English?
 excuse-moi	excuse me (informal)
-Bonne nuit	Good night
+bonne nuit	good night
 Bonne journée !	Have a nice day!
-Salut	Hi / Bye
+salut	hi / bye
 Comment allez-vous ?	How are you? (formal)
 Comment ça va ?	How are you? (informal)
-Combien ça coûte?	How much is it?
 C'est par où …, s'il vous plaît?	How to get to ..., please?
 Je ne comprends pas	I don't understand
-Ça va	I'm fine
-Ça va très bien	I'm very well
+ça va	I'm fine
+ça va très bien	I'm very well
 Je m'appelle …	My name is …
 Enchanté	Nice to meet you (m)
-Pas mal	Quite good
+pas mal	quite good
 À tout à l'heure !	See you in a bit!
 À plus tard !	See you later!
 pardon	sorry
@@ -73,3 +67,14 @@ la minute	the minute
 le mois	the month
 la seconde	the second
 la semaine	the week
+un ascenseur	a lift
+la côte	the coast
+la clé	the key
+la réception	the reception
+le sable	the sand
+le shampoing	the shampoo
+le savon	the soap
+la crème solaire	the sun cream
+la serviette	the towel
+confirmer	to confirm
+la confirmation de réservation	the booking confirmation
