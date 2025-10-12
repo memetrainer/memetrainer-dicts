@@ -10,10 +10,10 @@ def get_audiofile_name(word):
     return audiofile_name + ".mp3"
 
 
-def load_audio(lang_key, word, audiopath="./", slow=True):
+def load_audio(lang_key, word, audiopath, slow=True):
     myobj = gTTS(text=word, lang=lang_key, slow=slow)
     
     filename = get_audiofile_name(word)
-    myobj.save(audiopath + filename)
+    myobj.save(audiopath / filename)
 
     time.sleep(LOADING_SLEEP_TIME_S)
