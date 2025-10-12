@@ -1,33 +1,21 @@
-words = """
-nul appels
-"""
-words = [x.strip() for x in words.split("\n") if x.strip() != ""]
-
-
-# dutch = nl, portugese = pt, czech = cs
-lang_key = "nl"
-slow_speed = True
-
-
-import os
-import time
-from gtts import gTTS
 import tqdm
+from pathlib import Path
 
-def get_audiofile_name(word):
-    symbols_to_replace = " .,?!\"\'"
-    audiofile_name = ""
-    for w in word:
-        audiofile_name = audiofile_name + (w if w not in symbols_to_replace else "_")
-    return audiofile_name + ".mp3"
+from audio_loader import load_audio
 
-def load_audio(word, audiopath="./", slow=slow_speed, lang_key=lang_key):
-    myobj = gTTS(text=word, lang=lang_key, slow=slow)
-    
-    filename = get_audiofile_name(word)
-    myobj.save(audiopath + filename)
 
-    time.sleep(1)
-        
-for word in tqdm.tqdm(words):
-    load_audio(word)
+def main(lang_key, words, audiopath):
+    for word in tqdm.tqdm(words):
+        load_audio(lang_key, word, audiopath=audiopath)
+
+
+if __name__ == "__main__":
+    lang_key = "fr"
+    audiopath = Path("new_dicts")
+
+    words = """
+    les produits d'entretien
+    """
+    words = [x.strip() for x in words.split("\n") if x.strip() != ""]
+
+    main(lang_key, words, audiopath)
