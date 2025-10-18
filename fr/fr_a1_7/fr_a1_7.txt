@@ -4,13 +4,13 @@ le château	the castle
 l'école primaire	the elementary school
 la bibliothèque	the library
 la pharmacie	the pharmacy
-la charcuterie	the pork delicatessen
+la charcuterie	the meat delicatessen shop
 le collège	the secondary school
 le centre commercial	the shopping centre
 le tabac	the tobacconist
 l'office de tourisme	the tourist office
 un béret	a beret
-un vêtement	a piece of clothing
+un vêtement	a garment
 la ceinture	the belt
 la casquette	the cap
 le manteau	the coat
@@ -64,7 +64,7 @@ mélanger	to mix
 verser	to pour
 déguster	to taste
 un chocolat chaud	a hot chocolate
-un jus de fruits	a juice
+un jus	a juice
 une carafe d'eau	a pitcher of water
 un soda	a soda
 sans sucre	sugar free
