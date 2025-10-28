@@ -32,7 +32,7 @@ détester	to hate
 espérer que ...	to hope that ...
 préférer	to prefer
 crier	to shout
-malheureux	unhappy
+malheureux	unhappy (m)
 une machine à laver	a washing machine
 le lave-vaisselle	the dishwasher
 le sèche-linge	the dryer
@@ -70,7 +70,7 @@ un haut-parleur	a speaker
 une clé USB	a USB key
 un écouteur	an earphone (one small)
 le livre	the book
-la touche	the key
+la touche	the key (on a keyboard)
 le clavier	the keyboard
 le cahier	the notebook
 le stylo	the pen
