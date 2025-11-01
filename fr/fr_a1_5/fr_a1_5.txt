@@ -61,12 +61,12 @@ le yaourt	the yogurt
 peser	to weigh
 le chariot	the trolley
 la promotion	the special offer
-trente-et-un	thirty-one
+trente et un	thirty-one
 vingt-huit	twenty-eight
 vingt-cinq	twenty-five
 vingt-quatre	twenty-four
 vingt-neuf	twenty-nine
-vingt-et-un	twenty-one
+vingt et un	twenty-one
 vingt-sept	twenty-seven
 vingt-six	twenty-six
 vingt-trois	twenty-three

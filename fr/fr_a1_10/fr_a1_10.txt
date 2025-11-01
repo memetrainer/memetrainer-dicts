@@ -1,44 +1,44 @@
-un libraire	a bookshop owner
-un homme d'affaires	a businessman
+un homme d'affaires	a businessman (m)
 une agricultrice	a farmer (f)
 un agriculteur	a farmer (m)
-un pompier	a fireman
 une hôtesse de l'air	a flight attendant (f)
 un steward	a flight attendant (m)
-un bibliothécaire	a librarian
+une coiffeuse	a hairdresser (f)
+un coiffeur	a hairdresser (m)
 une infirmière	a nurse (f)
 un infirmier	a nurse (m)
+un facteur	a postman (m)
 une factrice	a postwoman
-une commerçante	a shop keeper (f)
-un commerçant	a shop keeper (m)
-un soldat	a soldier
+une commerçante	a shopkeeper (f)
+un commerçant	a shopkeeper (m)
 une chirurgienne	a surgeon (f)
 un chirurgien	a surgeon (m)
-un comptable	an accountant
-un agent immobilier	an estate agent
+comptable	accountant (m/f)
+un agent immobilier	an estate agent (m)
 une informaticienne	an IT specialist (f)
 un informaticien	an IT specialist (m)
-une coiffeuse	hairdresser (f)
-un coiffeur	hairdresser (m)
+libraire	bookshop owner (m/f)
+pompier	firefighter (m/f)
+bibliothécaire	librarian (m/f)
+soldat	soldier (m/f)
 professeur	teacher (m/f)
 une lettre	a letter
 un colis	a parcel
 une carte postale	a postcard
-un facteur	a postman
 une expéditrice	a sender (f)
 un expéditeur	a sender (m)
 un timbre	a stamp
 une enveloppe	an envelope
 retour à l'expéditeur	return to sender
 le courrier	the mail
-le paquet	the packet
+un paquet	a packet
 la poste	the post office
 la boîte aux lettres	the postbox
-le destinataire	the recipient (m)
+destinataire	recipient (m/f)
 arriver à destination	to reach one's destination
 recevoir	to receive
 envoyer	to send
-par avion	via air mail
+par avion	by airmail
 une herbe	(a) grass
 une fleur	a flower
 une feuille	a leaf
