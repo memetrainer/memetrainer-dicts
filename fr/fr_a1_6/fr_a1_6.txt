@@ -46,17 +46,17 @@ le porc	the pork
 le steak	the steak
 le veau	the veal
 cinq milliards	five billion
-cinq cents	five hundred
-cinq cent mille	five hundred thousand
+cinq-cents	five hundred
+cinq-cent-mille	five hundred thousand
 cinq millions	five million
 un milliard	one billion
 cent	one hundred
-cent mille	one hundred thousand
+cent-mille	one hundred thousand
 un million	one million
 mille	one thousand
-dix mille	ten thousand
-deux cents	two hundred
-deux mille	two thousand
+dix-mille	ten thousand
+deux-cents	two hundred
+deux-mille	two thousand
 avril	April
 août	August
 décembre	December
