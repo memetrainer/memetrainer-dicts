@@ -1,0 +1,80 @@
+aereo	самолет
+aeroporto	аэропорт
+agosto	август
+albergo	гостиница (традиц.)
+anno	год
+aprile	апрель
+autobus	автобус
+banca	банк
+bar	бар
+bicicletta	велосипед
+caldo	горячий
+campagna	сельская местность
+cane	собака
+centro	центр
+check-in	регистрация
+chiesa	церковь
+cinema	кинотеатр
+città	город
+data	дата
+domani	завтра
+farmacia	аптека
+fermata	остановка
+fiore	цветок
+freddo	холодный
+gatto	кот
+gennaio	январь
+giornata	день (как прошел)
+giorno	день (календарный)
+giovedì	четверг
+giugno	июнь
+hotel	отель (междунар.)
+ieri	вчера
+luglio	июль
+macchina	автомобиль
+maggio	май
+mare	море
+mese	месяц
+minuto	минута
+montagna	гора
+moto	мотоцикл
+notte	ночь
+oggi	сегодня
+ora	сейчас (разг.)
+ora	час (ед. времени)
+ospedale	больница
+parcheggio	стоянка
+parco	парк
+partire	уезжать
+passaporto	паспорт
+pianta	растение
+piazza	площадь
+piovere	идти (о дожде)
+pomeriggio	вторая половина дня
+prenotare	бронировать
+ripetere	повторять
+sabato	суббота
+scrivere	написать
+sera	вечер
+settembre	сентябрь
+settimana	неделя
+spiaggia	пляж
+sposare	жениться (на ком-то)
+stazione	вокзал
+strada	дорога
+suonare	звонить (в дверь)
+suonare	играть (на инструменте)
+taxi	такси
+teatro	театр
+tornare	вернуться
+treno	поезд
+turista	турист
+ufficio	офис
+uscire	выходить
+vacanza	отпуск
+venerdì	пятница
+venire	приходить
+via	улица (в адресе)
+viaggiare	путешествовать
+viaggio	путешествие
+visitare	посещать

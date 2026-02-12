@@ -1,0 +1,80 @@
+alto	высокий
+arte	искусство
+attento	внимательный
+augurio	пожелание
+bello	красивый
+bere	пить
+bianco	белый
+biglietto	билет
+biondo	светловолосый
+blu	синий
+borsa	сумка
+bravo	молодец
+caffè	кофе
+calza	носок
+camicia	рубашка
+canzone	песня
+cappotto	пальто
+castano	каштановый
+cibo	еда
+compleanno	день рождения
+comprare	купить
+costare	стоить
+credito	кредит
+falso	ложный
+fare	делать
+felice	счастливый
+festa	праздник
+film	фильм
+frutta	фрукты
+giacca	пиджак
+giallo	жёлтый
+gonna	юбка
+grande	большой
+guardare	смотреть
+incontrare	встречать
+intelligente	умный
+interessante	интересный
+internazionale	международный
+italiano	итальянский (прил.)
+latte	молоко
+maglietta	футболка
+maglione	свитер
+magro	худой
+mangiare	есть (принимать пищу)
+mercato	рынок
+musica	музыка
+Natale	Рождество
+negozio	магазин
+nero	чёрный
+olio	масло (растительное)
+pane	хлеб
+pantalone	брюки (ед. форма)
+Pasqua	Пасха
+piacere	нравиться (глаг.)
+piacere	удовольствие (сущ.)
+pizza	пицца
+pizzeria	пиццерия
+pomodoro	помидор
+pranzare	обедать
+pranzo	обед
+prendere	взять
+prezzo	цена
+rosso	красный
+sapere	знать
+scarpa	туфля
+soldi	деньги
+spaghetti	спагетти
+spesa	покупки
+sporco	грязный
+stanco	усталый
+stretto	узкий
+supermercato	супермаркет
+triste	грустный
+trovare	найти
+tè	чай
+uovo	яйцо
+verde	зелёный
+vero	настоящий
+vestito	костюм, наряд
+vino	вино

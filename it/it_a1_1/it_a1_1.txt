@@ -1,0 +1,80 @@
+adesso	прямо сейчас
+aiuto	помогите! (межд.)
+alfabeto	алфавит
+ambasciata	посольство
+amica	подруга
+amico	друг
+anche	тоже
+aprire	открыть
+arrivederci	до свидания
+attenzione	внимание
+ballare	танцевать
+bambina	девочка
+bambino	мальчик
+bene	хорошо
+buonanotte	спокойной ночи
+buonasera	добрый вечер
+buongiorno	доброе утро
+cantare	петь
+ciao	привет
+cognome	фамилия
+colore	цвет
+come	как
+compagna	партнёрша
+compagno	партнёр (м.)
+consolato	консульство
+dentro	внутри
+dietro	сзади
+documento	документ
+domanda	вопрос
+domandare	спрашивать
+donna	женщина
+entrare	входить
+famiglia	семья
+favore	услуга
+figlia	дочь
+figlio	сын
+fumare	курить
+giocare	играть (в игры)
+grazie	спасибо
+indirizzo	адрес
+informazione	информация
+io	я
+le	определённый артикль (мн., ж.)
+leggere	читать
+lingua	язык (речь)
+loro	они
+lui	он
+mai	никогда
+mamma	мама
+maschio	самец
+meno	меньше
+mi	меня (при глаг.)
+moglie	жена
+morire	умереть
+nazionalità	национальность
+nazione	страна
+nessuno	никто
+no	нет
+nome	имя
+nonna	бабушка
+nonno	дедушка
+o	или (союз)
+papà	папа
+parlare	говорить
+poco	мало
+potere	мочь
+prego	пожалуйста (в ответ)
+quasi	почти
+quello	тот
+rispondere	отвечать
+salute	будь здоров!
+saluto	приветствие
+scusare	извинять
+sempre	всегда
+su	на (поверхности)
+sì	да
+tu	ты
+tutto	весь
+uomo	мужчина
+voi	вы (мн.)
