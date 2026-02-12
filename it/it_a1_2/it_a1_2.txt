@@ -1,0 +1,80 @@
+aceto	уксус
+acqua	вода
+appartamento	квартира
+bagno	ванная
+bicchiere	стакан
+birra	пиво
+bottiglia	бутылка
+buono	хороший
+camera	комната
+cameriera	официантка
+cameriere	официант
+cappuccino	капучино
+carne	мясо
+caro	дорогой (любимый)
+casa	дом
+cena	ужин
+cenare	ужинать
+chiave	ключ
+colazione	завтрак
+coltello	нож
+conto	счёт
+corto	короткий
+cucchiaio	ложка
+cucina	кухня
+difficile	трудный
+doccia	душ
+doppio	двойной
+euro	евро
+facile	лёгкий
+finestra	окно
+forchetta	вилка
+gentile	любезный
+giardino	сад
+giovane	молодой
+importante	важный
+largo	широкий
+letto	кровать
+lungo	длинный
+menù	меню
+mezzo	половинный
+nuovo	новый
+ombrello	зонт
+orologio	часы
+pacco	посылка
+pagare	платить
+pasta	паста
+pepe	перец
+pesce	рыба
+piano	медленно (нареч.)
+piano	этаж (сущ.)
+piatto	тарелка
+piccolo	маленький
+porta	дверь
+portare	приносить
+pulire	чистить
+quadro	картина
+ricco	богатый
+riso	рис
+ristorante	ресторан
+ritornare	возвращаться
+sale	соль
+sedia	стул
+sigaretta	сигарета
+significare	значить
+simpatico	приятный (о человеке)
+singolo	одиночный
+soggiorno	гостиная
+spedire	отправлять (почтой)
+stare	быть (о состоянии)
+stare	находиться (где-то)
+stop	стоп
+straniero	иностранный
+svegliarsi	просыпаться
+tavolo	стол
+vedersi	видеться
+verdura	овощи
+vivere	жить (вообще)
+volere	хотеть
+zaino	рюкзак
+zucchero	сахар

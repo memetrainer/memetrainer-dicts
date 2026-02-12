@@ -1,0 +1,100 @@
+abitare	проживать (где-то)
+affetto	привязанность
+agenzia	агентство
+albero	дерево
+amare	любить
+amore	любовь
+andare	идти (куда-л.)
+animale	животное
+appuntamento	встреча (назначенная)
+arrivare	прибывать (в пункт)
+ascoltare	слушать
+aspettare	ждать
+autunno	осень
+avanti	вперед
+bacio	поцелуй
+busta	конверт
+cambiare	менять
+capello	волос
+capire	понять
+carta	бумага
+cd	CD-диск
+cercare	искать
+certo	конечно
+che	что (союз/местоим.)
+chi	кто
+chiudere	закрывать
+cin cin	тост при чоканье
+cominciare	начинать
+con	с (предл.)
+cosa	что (вопрос)
+davanti	впереди
+dopo	после
+dormire	спать
+dottore	врач (м.)
+dottoressa	врач (ж.)
+dove	где
+dovere	должен (мод.)
+due	два
+estate	лето
+estero	заграница
+fabbrica	завод
+fame	голод
+femmina	самка
+francobollo	марка
+fratello	брат
+giù	вниз
+hobby	хобби
+indietro	обратно
+industria	промышленность
+inverno	зима
+lago	озеро
+lei	она
+là	вон там
+madre	мать
+malato	больной
+male	плохо
+marito	муж
+me	меня (самост.)
+medicina	лекарство
+metà	половина
+mio	мой
+museo	музей
+niente	ничто
+noi	мы
+numero	номер
+occhiali	очки
+padre	отец (нейтр.)
+parola	слово
+perché	потому что (ответ)
+perché	почему (вопрос)
+più	больше
+polizia	полиция
+posta	почта
+posto	место
+primavera	весна
+quale	какой
+quanto	сколько
+questo	это
+qui	здесь (нейтр.)
+ragazza	девушка
+ragazzo	парень
+risposta	ответ
+segreteria	секретариат
+sete	жажда
+signora	госпожа
+signore	господин
+sinistra	лево (сторона)
+sole	солнце
+sonno	сон
+sorella	сестра
+sotto	под
+sport	спорт
+te	тебя (самост.)
+ti	тебя (при глаг.)
+tuo	твой
+uno	один
+valigia	чемодан
+vecchio	старый
+visto	виза
+zero	ноль

@@ -1,0 +1,80 @@
+a	в (направление)
+avere	иметь
+cartolina	открытка
+cellulare	мобильный телефон
+chiamare	звать
+chiamarsi	называться
+classe	класс
+computer	компьютер
+corso	курс
+dare	дать
+destra	право (сторона)
+di	из/о (предл.)
+dicembre	декабрь
+dire	сказать
+domenica	воскресенье
+e	и (союз)
+e-mail	эл. письмо
+esercizio	упражнение
+essere	быть (идентичность)
+fax	факс
+febbraio	февраль
+finire	заканчиваться
+fotografia	фотография
+fuori	снаружи
+giornale	газета
+imparare	научиться (чему-то)
+in	в (предл.)
+insegnante	учитель
+insegnare	преподавать
+internet	интернет
+lavorare	работать
+lavoro	работа
+lettera	письмо
+lezione	урок
+libro	книга
+lontano	далеко
+lunedì	понедельник
+lì	там (конкретно)
+martedì	вторник
+marzo	март
+matita	карандаш
+mattina	утро
+mercoledì	среда
+mettere	класть/ставить
+mezzanotte	полночь
+mezzogiorno	полдень
+molto	много
+momento	момент
+nascere	рождаться
+non	не
+novembre	ноябрь
+ottobre	октябрь
+penna	ручка
+per	для/ради (предл.)
+presto	скоро
+professore	преподаватель (м.)
+professoressa	преподаватель (ж.)
+qua	тут (разг.)
+quaderno	тетрадь
+quando	когда
+quarto	четверть (числ.)
+radio	радио
+scuola	школа
+secondo	второй
+secondo	секунда
+senza	без
+sopra	над
+spesso	часто
+studente	студент
+studentessa	студентка
+studiare	изучать (предмет)
+tanto	так много
+tardi	поздно
+telefonare	звонить (по телефону)
+telefono	телефон
+televisione	телевидение
+troppo	слишком
+tv	телевизор
+università	университет
+vicino	поблизости

@@ -1,5 +1,17 @@
 # Copyright (c) 2025 Makarov Edgar. All rights reserved.
 
+##############################################
+# List of dicts for Italian (dictprefix=it)  #
+##############################################
+# DICTIONARY      WORDS       DESCRIPTIONs
+# a1_1            80w         A1 (Family, Adverbs & Prepositions, Basic Verbs, Greetings, Identity & Documents, Pronouns & Articles)
+# a1_2            80w         A1 (Adjectives, Food & Drinks, House & Home, Basic Verbs, Objects, Tableware)
+# a1_3            80w         A1 (Time & Calendar, City & Places, Nature & Weather, Transport, Travel, Basic Verbs)
+# a1_4            80w         A1 (Adjectives, Food & Drinks, Clothing, Shopping & Money, Colors, Basic Verbs)
+# a1_5            80w         A1 (Adverbs & Prepositions, Work & Study, Time & Calendar, Communication, Basic Verbs)
+# a1_6            100w        A1 (Misc, Adverbs & Prepositions, Basic Verbs, Pronouns & Articles, Family, Nature & Weather)
+
+
 ############################################
 # List of dicts for French (dictprefix=fr) #
 ############################################
