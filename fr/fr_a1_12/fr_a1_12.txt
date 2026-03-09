@@ -1,5 +1,5 @@
-Ce n'est pas pareil	It is not the same
-Il y a beaucoup de contrôles	There are many inspections
+Ce n'est pas pareil .	It is not the same.
+Il y a beaucoup de contrôles .	There are many inspections.
 annoncer	to announce
 après le concert	after the concert
 aussi	also
@@ -9,7 +9,7 @@ avec un ami	with a friend (m)
 beaucoup de	a lot of
 beaucoup de Français	many French people
 ce n'est pas	it is not
-ce n'est plus	no longer
+ce n'est plus	it is no longer
 chez	at someone's place
 chez un ami	at a friend's place (m)
 contre	against
@@ -76,8 +76,8 @@ pareille	similar / same (f)
 parfois	sometimes
 pendant	during
 pendant le dîner	during dinner
-plus	more / no longer
-plus de prix	more prices
+plus	more
+plus de personnes	more people
 pour	for
 pour un ami	for a friend (m)
 sans	without

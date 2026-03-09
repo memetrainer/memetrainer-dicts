@@ -24,12 +24,12 @@ il grossit	he gains weight
 il parle	he speaks
 il vient	he comes
 ils	they (m)
+ils battent	they beat
 ils font	they do
 ils grossissent	they gain weight
 ils parlent	they speak
 ils sont	they are
 ils viennent	they come
-ils, elles battent	they beat
 impossible	impossible (m/f)
 je	I
 je bats	I beat
@@ -45,8 +45,8 @@ la possibilité choisie	the chosen possibility
 la réponse correcte	the correct answer
 la situation	the situation
 la tasse	the cup
-la terrible vie	the terrible life
 la tombe	the tomb
+la vie terrible	the terrible life
 le basket	the basketball
 le dictionnaire	the dictionary
 le disque	the disc
@@ -59,10 +59,10 @@ le pronom	the pronoun
 le verbe	the verb
 les feuilles vertes	the green leaves
 les livres choisis	the chosen books
+les mots tendres	the tender words
 les papiers	the documents
 les possibilités choisies	the chosen possibilities
 les questions directes	the direct questions
-les tendres mots	the tender words
 nous	we
 nous battons	we beat
 nous faisons	we do
@@ -88,7 +88,7 @@ une douzaine d'œufs	a dozen eggs
 une escalade	a rock climbing
 une fille irritée	an irritated girl
 venir	to come
-venu	having come
+venu	come / arrived
 vous	you (pl.)
 vous battez	you beat (pl.)
 vous faites	you do (pl.)
