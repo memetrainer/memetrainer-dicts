@@ -1,3 +1,5 @@
+Natale	Рождество
+Pasqua	Пасха
 alto	высокий
 arte	искусство
 attento	внимательный
@@ -44,13 +46,11 @@ magro	худой
 mangiare	есть (принимать пищу)
 mercato	рынок
 musica	музыка
-Natale	Рождество
 negozio	магазин
 nero	чёрный
 olio	масло (растительное)
 pane	хлеб
 pantalone	брюки (ед. форма)
-Pasqua	Пасха
 piacere	нравиться (глаг.)
 piacere	удовольствие (сущ.)
 pizza	пицца
