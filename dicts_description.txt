@@ -26,6 +26,8 @@
 # a1_8            80w         A1 (Family 2, Face, Fruits, Home 2, Bedroom, Verbs 2)
 # a1_9            80w         A1 (Animals 2, Emotions, Everyday chores, Numbers 4, Office)
 # a1_10           80w         A1 (Jobs 2, Mail, Numbers 4, School)
+# a1_11          100w         A1 (Adj, Grammar, Hobbies, Numbers 5, Obj-Adj phrases, Objects, Pronoms, Verbs)
+# a1_12          100w         A1 (Adj, Adverb, Economy, Expressions, Geography, Politics, Prepositions, Society, Verbs)
 
 
 ###########################################

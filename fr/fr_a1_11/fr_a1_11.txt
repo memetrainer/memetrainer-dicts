@@ -1,0 +1,100 @@
+battre	to beat
+battu	beaten
+des filles irritées	irritated girls
+des garçons irrités	irritated boys
+des milliers de gens	thousands of people
+dur	heavy (m)
+dure	heavy (f)
+désert	deserted (m)
+elle	she
+elle bat	she beats
+elle est	she is
+elle fait	she does
+elle grossit	she gains weight
+elle parle	she speaks
+elle vient	she comes
+elles	they (f)
+faire	to do / to make
+fait	done / made
+il	he
+il bat	he beats
+il est	he is
+il fait	he does
+il grossit	he gains weight
+il parle	he speaks
+il vient	he comes
+ils	they (m)
+ils font	they do
+ils grossissent	they gain weight
+ils parlent	they speak
+ils sont	they are
+ils viennent	they come
+ils, elles battent	they beat
+impossible	impossible (m/f)
+je	I
+je bats	I beat
+je fais	I do
+je grossis	I gain weight
+je parle	I speak
+je suis	I am
+je viens	I come
+l'escrime	the fencing
+la guerre	the war
+la natation	the swimming
+la possibilité choisie	the chosen possibility
+la réponse correcte	the correct answer
+la situation	the situation
+la tasse	the cup
+la terrible vie	the terrible life
+la tombe	the tomb
+le basket	the basketball
+le dictionnaire	the dictionary
+le disque	the disc
+le foot	the football
+le jour clair	the clear day
+le lis	the lily
+le livre choisi	the chosen book
+le nom	the noun
+le pronom	the pronoun
+le verbe	the verb
+les feuilles vertes	the green leaves
+les livres choisis	the chosen books
+les papiers	the documents
+les possibilités choisies	the chosen possibilities
+les questions directes	the direct questions
+les tendres mots	the tender words
+nous	we
+nous battons	we beat
+nous faisons	we do
+nous grossissons	we gain weight
+nous parlons	we speak
+nous sommes	we are
+nous venons	we come
+rond	round (m)
+ronde	round (f)
+tu	you (sing.)
+tu bats	you beat (sing.)
+tu es	you are (sing.)
+tu fais	you do (sing.)
+tu grossis	you gain weight (sing.)
+tu parles	you speak (sing.)
+tu viens	you come (sing.)
+un adjectif	an adjective
+un adverbe	an adverb
+un garçon irrité	an irritated boy
+une centaine de personnes	a hundred people
+une dizaine de minutes	about ten minutes
+une douzaine d'œufs	a dozen eggs
+une escalade	a rock climbing
+une fille irritée	an irritated girl
+venir	to come
+venu	having come
+vous	you (pl.)
+vous battez	you beat (pl.)
+vous faites	you do (pl.)
+vous grossissez	you gain weight (pl.)
+vous parlez	you speak (pl.)
+vous venez	you come (pl.)
+vous êtes	you are (pl.)
+été	been
+être	to be

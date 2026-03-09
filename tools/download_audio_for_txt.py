@@ -36,7 +36,11 @@ def main(lang_key, dict_txt_path):
 
 
 if __name__ == "__main__":
-    lang_key = "it"                    # language key (fr, nl, cz, pt, ...) - see gTTS_lang_codes.csv
-    dict_txt_path = Path("new_dicts")  # put the txt files there (like fr_a1_1.txt, ...)
+    import argparse
 
-    main(lang_key, dict_txt_path)  
+    parser = argparse.ArgumentParser(description="Download audio for dictionary txt files")
+    parser.add_argument("lang_key", help="Language key (fr, nl, cz, pt, it, ...) - see gTTS_lang_codes.csv")
+    parser.add_argument("--dict_txt_path", default="new_dicts", help="Path to directory with txt files (default: new_dicts)")
+    args = parser.parse_args()
+
+    main(args.lang_key, Path(args.dict_txt_path))  
