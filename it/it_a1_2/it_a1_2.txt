@@ -26,7 +26,7 @@ difficile	трудный
 doccia	душ
 doppio	двойной
 euro	евро
-facile	лёгкий
+facile	лёгкий (по усилиям)
 finestra	окно
 forchetta	вилка
 gentile	любезный
@@ -37,7 +37,7 @@ largo	широкий
 letto	кровать
 lungo	длинный
 menù	меню
-mezzo	половинный
+mezzo	половина
 nuovo	новый
 ombrello	зонт
 orologio	часы
@@ -67,11 +67,11 @@ singolo	одиночный
 soggiorno	гостиная
 spedire	отправлять (почтой)
 stare	быть (о состоянии)
-stare	находиться (где-то)
 stop	стоп
 straniero	иностранный
 svegliarsi	просыпаться
 tavolo	стол
+vedere	видеть
 vedersi	видеться
 verdura	овощи
 vivere	жить (вообще)
