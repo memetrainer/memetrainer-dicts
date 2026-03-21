@@ -1,0 +1,100 @@
+Je bois un café et tu manges .	I am drinking a coffee and you are eating.
+Je lis ou je dors .	I am reading or I am sleeping.
+Je suis fatigué, donc je vais me coucher .	I am tired, so I am going to bed.
+Je travaille, mais je veux me reposer .	I am working, but I want to rest.
+car	because (formal)
+car il fait froid dehors	because it is cold outside (formal)
+comme	like, as
+comme Marie	like Marie
+comme si	as if
+comme si c'était facile	as if it were easy
+content	satisfied
+courir	to run
+danser	to dance
+dormir	to sleep
+douce	soft, gentle
+elle est contente	she is happy
+fatigué, mais content	tired, but happy
+il est mécontent aujourd'hui	he is unhappy today
+irrité	irritated
+je dors bien	I sleep well
+je propose une idée	I suggest an idea
+je vais me coucher	I am going to bed
+je veux me reposer	I want to rest
+la douleur	the pain
+la famine	the famine
+la leur	theirs (f)
+la mienne	mine (f)
+la nôtre	ours (f)
+la rumeur	the rumor
+la sienne	his/hers (f)
+la souffrance	the suffering
+la tienne	yours (tu, f)
+la tête	the head
+la vie ou la mort	life or death
+la vôtre	yours (vous, f)
+le bruit	the noise
+le cœur	the heart
+le leur	theirs (m)
+le mien	mine (m)
+le mouchoir	the handkerchief
+le nôtre	ours (m)
+le palais	the palace
+le peuple	the people
+le sang	the blood
+le sien	his/hers (m)
+le soleil et la lune	the sun and the moon
+le tien	yours (tu, m)
+le vôtre	yours (vous, m)
+les leurs	theirs (pl)
+les miennes	mine (pl f)
+les miens	mine (pl m)
+les nôtres	ours (pl)
+les siennes	his/hers (pl f)
+les siens	his/hers (pl m)
+les tiennes	yours (tu, pl f)
+les tiens	yours (tu, pl m)
+les vôtres	yours (vous, pl)
+leur chien est le leur	their dog is theirs
+leur voiture est la leur	their car is theirs
+leurs enfants sont les leurs	their children are theirs
+lorsque	when (formal)
+lorsque tu ouvres la porte	when you open the door (formal)
+ma maison est la mienne	my house is mine
+mes livres sont les miens	my books are mine
+mes voitures sont les miennes	my cars are mine
+mon livre est le mien	my book is mine
+monter	to go up
+mécontent	dissatisfied
+ni chien ni chat	neither dog nor cat
+nos amis sont les nôtres	our friends are ours
+notre jardin est le nôtre	our garden is ours
+notre maison est la nôtre	our house is ours
+partir	to leave
+pour le travail	for work
+pour que	so that
+pour que tu réussisses	so that you succeed
+proposer	to suggest
+puisque	since (given that)
+puisque tu es déjà là	since you are already here (around)
+remuer	to move, to stir
+revenir	to come back
+réveiller	to wake up
+sa voiture est la sienne	his car is his
+se coucher	to go to bed
+se reposer	to rest
+ses amis sont les siens	her friends are hers
+ses photos sont les siennes	his photos are his
+si	if
+si tu viens	if you come
+soit le café, soit le thé	either coffee or tea
+son stylo est le sien	her pen is hers
+sortir	to go out
+ta chaise est la tienne	your chair is yours (tu)
+tantôt le soleil, tantôt la pluie	sometimes sun, sometimes rain
+tes chaussures sont les tiennes	your shoes are yours (tu)
+ton sac est le tien	your bag is yours (tu)
+un enchantement	an enchantment
+vos clés sont les vôtres	your keys are yours (vous)
+votre livre est le vôtre	your book is yours (vous)
+votre table est la vôtre	your table is yours (vous)
