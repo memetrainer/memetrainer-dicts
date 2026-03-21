@@ -1,0 +1,100 @@
+ailleurs	elsewhere
+ancien livre	old book
+ancienne maison	old house
+anciennes photos	old photos
+anciens amis	old friends
+au coin	at the corner
+autant	as much
+beau jardin	beautiful garden
+beaux arbres	beautiful trees
+bel hôtel	beautiful hotel
+belle ville	beautiful city
+belles fleurs	beautiful flowers
+bon café	good coffee
+bonne idée	good idea
+bonnes notes	good grades
+bons élèves	good students
+brûler	to burn
+chanter	to sing
+dessous	underneath, below
+enfants attentifs	attentive children
+erreurs sérieuses	serious mistakes
+fille attentive	attentive girl
+garçon attentif	attentive boy
+gratter	to scratch
+j'adore	I love
+joli chat	pretty cat
+jolie robe	pretty dress
+jolies maisons	pretty houses
+jolis oiseaux	pretty birds
+la fête	the celebration
+la plume	the feather
+la reine	the queen
+la rencontre	the meeting
+la saison	the season
+le destin	the destiny
+le devoir	the homework
+le drapeau	the flag
+le fleuve	the river
+le gardien	the guardian
+le meilleur	the best (m)
+le plafond	the ceiling
+le repas	the meal
+le rivage	the shore
+le souk	the market
+le verre	the glass
+leur	their (m/f)
+leur fille	their girl
+leur garçon	their boy
+leurs	their (pl)
+lever	to raise
+ma	my (f)
+ma sœur	my sister
+mauvais temps	bad weather
+mauvais élèves	bad students
+mauvaise réponse	bad answer
+mauvaises habitudes	bad habits
+mes	my (pl)
+mes amis	my friends
+mon	my (m)
+mon frère	my brother
+mériter	to deserve
+nager	to swim
+nos	our (pl)
+notre	our (m/f)
+notre frère	our brother
+notre sœur	our sister
+nouveau travail	new job
+nouveaux voisins	new neighbors
+nouvel appartement	new apartment
+nouvelle voiture	new car
+nouvelles chaussures	new shoes
+partager	to share
+problème sérieux	serious problem
+question sérieuse	serious question
+sa	his/her (f)
+sa sœur	her sister
+sa voiture	his car
+savoir	to know
+ses	his/her (pl)
+ses amis	her friends
+ses enfants	his children
+son	his/her (m)
+son frère	her brother
+son père	his father
+ta	your (tu, f)
+ta maison	your house (tu)
+tes	your (tu, pl)
+tes chaussures	your shoes (tu)
+ton	your (tu, m)
+ton livre	your book (tu)
+un meilleur	a better
+une écume	a foam
+une étoile	a star
+voir	to see
+vos	your (vous, pl)
+votre	your (vous, m/f)
+votre mère	your mother (vous)
+votre père	your father (vous)
+élèves attentives	attentive students
+élèves sérieux	serious students
