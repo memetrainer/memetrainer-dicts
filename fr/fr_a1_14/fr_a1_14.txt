@@ -1,18 +1,21 @@
-Je bois un café et tu manges .	I am drinking a coffee and you are eating.
-Je lis ou je dors .	I am reading or I am sleeping.
-Je suis fatigué, donc je vais me coucher .	I am tired, so I am going to bed.
-Je travaille, mais je veux me reposer .	I am working, but I want to rest.
+Je bois un café et tu manges.	I am drinking a coffee and you are eating.
+Je lis ou je dors.	I am reading or I am sleeping.
+Je suis fatigué, donc je vais me coucher.	I am tired, so I am going to bed.
+Je travaille, mais je veux me reposer.	I am working, but I want to rest.
 car	because (formal)
 car il fait froid dehors	because it is cold outside (formal)
+chrétien	Christian (m)
+chétif	weak (m)
 comme	like, as
 comme Marie	like Marie
 comme si	as if
 comme si c'était facile	as if it were easy
+constater	to notice, to observe
 content	satisfied
-courir	to run
+copieux	abundant, hearty (m)
+créatif	creative (m)
 danser	to dance
 dormir	to sleep
-douce	soft, gentle
 elle est contente	she is happy
 fatigué, mais content	tired, but happy
 il est mécontent aujourd'hui	he is unhappy today
@@ -21,19 +24,17 @@ je dors bien	I sleep well
 je propose une idée	I suggest an idea
 je vais me coucher	I am going to bed
 je veux me reposer	I want to rest
-la douleur	the pain
+la conduite	the driving
 la famine	the famine
 la leur	theirs (f)
 la mienne	mine (f)
 la nôtre	ours (f)
 la rumeur	the rumor
 la sienne	his/hers (f)
-la souffrance	the suffering
 la tienne	yours (tu, f)
 la tête	the head
 la vie ou la mort	life or death
 la vôtre	yours (vous, f)
-le bruit	the noise
 le cœur	the heart
 le leur	theirs (m)
 le mien	mine (m)
@@ -45,6 +46,7 @@ le sang	the blood
 le sien	his/hers (m)
 le soleil et la lune	the sun and the moon
 le tien	yours (tu, m)
+le tilleul	the linden tree
 le vôtre	yours (vous, m)
 les leurs	theirs (pl)
 les miennes	mine (pl f)
@@ -77,8 +79,6 @@ pour que tu réussisses	so that you succeed
 proposer	to suggest
 puisque	since (given that)
 puisque tu es déjà là	since you are already here (around)
-remuer	to move, to stir
-revenir	to come back
 réveiller	to wake up
 sa voiture est la sienne	his car is his
 se coucher	to go to bed

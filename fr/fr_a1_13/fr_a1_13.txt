@@ -1,8 +1,5 @@
 ailleurs	elsewhere
-ancien livre	old book
-ancienne maison	old house
-anciennes photos	old photos
-anciens amis	old friends
+arbres anciens	old trees
 au coin	at the corner
 autant	as much
 beau jardin	beautiful garden
@@ -19,6 +16,7 @@ chanter	to sing
 dessous	underneath, below
 enfants attentifs	attentive children
 erreurs sérieuses	serious mistakes
+femmes attentives	attentive women
 fille attentive	attentive girl
 garçon attentif	attentive boy
 gratter	to scratch
@@ -35,21 +33,23 @@ la saison	the season
 le destin	the destiny
 le devoir	the homework
 le drapeau	the flag
-le fleuve	the river
+le fleuve	the river (into the sea)
 le gardien	the guardian
 le meilleur	the best (m)
 le plafond	the ceiling
 le repas	the meal
 le rivage	the shore
-le souk	the market
+le souk	the bazaar
 le verre	the glass
 leur	their (m/f)
 leur fille	their girl
 leur garçon	their boy
 leurs	their (pl)
 lever	to raise
+livre ancien	old book
 ma	my (f)
 ma sœur	my sister
+maison ancienne	old house
 mauvais temps	bad weather
 mauvais élèves	bad students
 mauvaise réponse	bad answer
@@ -70,6 +70,7 @@ nouvel appartement	new apartment
 nouvelle voiture	new car
 nouvelles chaussures	new shoes
 partager	to share
+photos anciennes	old photos
 problème sérieux	serious problem
 question sérieuse	serious question
 sa	his/her (f)
@@ -96,5 +97,4 @@ vos	your (vous, pl)
 votre	your (vous, m/f)
 votre mère	your mother (vous)
 votre père	your father (vous)
-élèves attentives	attentive students
 élèves sérieux	serious students
